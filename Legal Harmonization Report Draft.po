@@ -1,0 +1,351 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-16 15:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]
+msgid "About TCI Asia3"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]
+msgid "About this Working Paper4"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]
+msgid "Introduction5"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]
+msgid "The Global call for Mental Health Legislation6"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]
+msgid "Analysing the WHO Resource Book post the CRPD7"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]
+msgid "Status of the Asian region and mental health laws9"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]
+msgid ""
+"Relevant Extracts from concluding observations on the rights of persons with "
+"psychosocial disabilities21"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]
+msgid ""
+"Strategizing legal harmonization efforts for persons with psychosocial "
+"disabilities29"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]
+msgid ""
+"The importance of Article 19 of the CRPD for persons with psychosocial "
+"disabilities30"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]
+msgid "Legal Harmonization across laws31"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]
+msgid "Towards a CRPD Compliant Mental Health law32"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]
+msgid "Umbrella disability rights legislations35"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]
+msgid "Inclusion in laws not specific to persons with disabilities39"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]
+msgid "The opportunity of the sustainable development goals41"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]
+msgid "Strategies for Legal Harmonization in the Asia region44"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]
+msgid "Specific strategies for countries in the Asian region45"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]
+msgid "Conclusion50"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[31]/text:span[2]/text:note[0]/text:note-citation[0]
+msgid "1"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[33]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "2"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[33]/text:span[3]/text:note[0]/text:note-citation[0]
+msgid "3"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "4"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[39]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "5"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "6"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "7"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "8"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[2]/text:list[0]/text:list-item[4]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "9"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "10"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "11"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[1]/text:p[1]/text:span[2]/text:span[0]/text:note[0]/text:note-citation[0]
+msgid "12"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[2]/text:p[0]/text:span[2]/text:note[0]/text:note-citation[0]
+msgid "13"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[2]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "14"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[6]/table:table-cell[1]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "15"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[6]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "16"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[7]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "17"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[8]/table:table-cell[1]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "18"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[8]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "19"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[8]/table:table-cell[2]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "20"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[8]/table:table-cell[2]/text:p[0]/text:span[3]/text:note[0]/text:note-citation[0]
+msgid "21"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[8]/table:table-cell[2]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "22"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[8]/table:table-cell[2]/text:p[1]/text:span[3]/text:note[0]/text:note-citation[0]
+msgid "23"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[9]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "24"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[10]/table:table-cell[1]/text:p[0]/text:span[2]/text:span[0]/text:note[0]/text:note-citation[0]
+msgid "25"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[10]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "26"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[11]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "27"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[12]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "28"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[12]/table:table-cell[2]/text:p[0]/text:span[2]/text:note[0]/text:note-citation[0]
+msgid "29"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[13]/table:table-cell[1]/text:p[0]/text:span[2]/text:note[0]/text:note-citation[0]
+msgid "30"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[14]/table:table-cell[1]/text:p[0]/text:span[2]/text:note[0]/text:note-citation[0]
+msgid "31"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[14]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "32"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[15]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "33"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[15]/table:table-cell[2]/text:p[3]/text:span[3]/text:note[0]/text:note-citation[0]
+msgid "34"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[15]/table:table-cell[2]/text:p[4]/text:span[7]/text:note[0]/text:note-citation[0]
+msgid "35"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[15]/table:table-cell[2]/text:p[7]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "36"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[16]/table:table-cell[1]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "37"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[19]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "38"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[19]/table:table-cell[2]/text:p[2]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "39"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[20]/table:table-cell[1]/text:p[1]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "40"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "41"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "42"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "43"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "44"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "45"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[73]/text:span[2]/text:note[0]/text:note-citation[0]
+msgid "46"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[73]/text:span[4]/text:note[0]/text:note-citation[0]
+msgid "47"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[73]/text:span[6]/text:note[0]/text:note-citation[0]
+msgid "48"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[77]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "49"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[82]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "50"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[101]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "51"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[101]/text:span[3]/text:note[0]/text:note-citation[0]
+msgid "52"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[101]/text:span[5]/text:note[0]/text:note-citation[0]
+msgid "53"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[103]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "54"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[103]/text:span[3]/text:note[0]/text:note-citation[0]
+msgid "55"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[111]/text:span[2]/text:note[0]/text:note-citation[0]
+msgid "56"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[7]/table:table-cell[0]/text:p[0]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "57"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[119]/text:span[1]/text:note[0]/text:note-citation[0]
+msgid "58"
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[155]
+msgid ""
+"The Asia region is currently poised at a crucial point in terms of the "
+"negotiation of laws around persons with psychosocial disability. The CRPD "
+"Committee will evaluate many of the member countries of TCI Asia in the next "
+"5 years. With the withdrawal of the WHO Resource Book, there is a knowledge "
+"gap for activists and governments on the way forward. It is hoped that the "
+"forthcoming concluding observations and General Comment on Article 19 will "
+"provide some guidance, ultimately it is up to States to develop their own "
+"solutions. The next few years will also be crucial in States determining "
+"their own indicators regarding the sustainable development goals. The result "
+"of inclusive indicators for the next 12 years will necessitate the framing "
+"of law and policy to realize those goals, and this again presents a window "
+"of opportunity for persons with psychosocial disability to make themselves "
+"heard."
+msgstr ""
+
+#: office:document-content[0]/office:body[0]/office:text[0]/text:p[157]
+msgid ""
+"It is hard to imagine the continuance of exclusionary laws and practices "
+"ever leading to the fulfillment of Agenda 2030 with respect to persons with "
+"psychosocial disabilities. A CRPD compliant solution developed in any State "
+"may become a new template, and it is hoped that this time, the authorship of "
+"this document will be in the hands of persons with psychosocial disabilities "
+"themselves, broken free from the Colonial hangover, and setting the terms of "
+"their inclusion. "
+msgstr ""
+
+#: office:document-meta[0]/office:meta[0]/dc:title[0]
+msgid "Transforming communities for inclusion"
+msgstr ""
