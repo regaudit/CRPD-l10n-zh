@@ -2,7 +2,7 @@
 身心障礙者權利及相關資源中文化 －Chinese localization for the resources on the rights of persons with disabilities.
 
 ## Content
-[目录及翻译进度](https://mdrights.github.io/beyond-psychiatry/crpd-l10n/)
+[目录及翻译进度](https://mdrights.github.io/beyond-psychiatry/CRPD-l10n/)
 
 ## How to
 1. Fork本項目，編輯po文件：
