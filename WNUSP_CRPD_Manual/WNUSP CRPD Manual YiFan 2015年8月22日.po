@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: WNUSP CRPD Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-09 04:04+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-07-28 09:35+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Generator: Poedit 2.0.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language-Team: CRPD-l10n\n"
+"Language: zh_CN\n"
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[9]
 msgid "IMPLEMENTATION MANUAL "
@@ -109,8 +110,8 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[52]
 msgid ""
-"介绍---------------------------------------------------------------------------"
-"---3"
+"介"
+"绍------------------------------------------------------------------------------3"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[54]
@@ -123,12 +124,14 @@ msgid "我们参与公约的起草和协商-------------------------------------
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[59]
-msgid "如何使用这本手册------------------------------------------------------------6"
+msgid ""
+"如何使用这本手册------------------------------------------------------------6"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[62]
 msgid ""
-"文章导读------------------------------------------------------------------------7"
+"文章导"
+"读------------------------------------------------------------------------7"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[66]
@@ -156,7 +159,8 @@ msgid "HOW CAN WE ACCOMPLISH "
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[81]
-msgid "我们如何实现需要做的事情？---------------------------------------------29"
+msgid ""
+"我们如何实现需要做的事情？---------------------------------------------29"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[83]
@@ -189,15 +193,14 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[111]
 msgid ""
-"监督---------------------------------------------------------------------------"
-"---43"
+"监"
+"督------------------------------------------------------------------------------43"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[114]
 msgid ""
-"附录"
-"----------------------------------------------------------------------------"
-"47"
+"附"
+"录----------------------------------------------------------------------------47"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[118]
@@ -239,7 +242,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[128]
-msgid "世界精神病学使用者和幸存者网络非常骄傲的宣告：新的联合国的《残疾人权利公约》对于全世界的精神病学使用者和幸存者是一个重要的胜利。"
+msgid ""
+"世界精神病学使用者和幸存者网络非常骄傲的宣告：新的联合国的《残疾人权利公约》"
+"对于全世界的精神病学使用者和幸存者是一个重要的胜利。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[130]
@@ -270,11 +275,16 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[133]
 msgid ""
-"我们最大的胜利——一个基于家长式的模型向基于尊重我们的人权的模范转变的典范——在第12条的关于法律能力的文本中。国家必须承认残疾人享有与在与别人平等基础上"
-"的法律能力。这意味着什么呢？从行动的能力的意义而言，我们知道法律能力，就是指做决定的权利，以及与社会的其他成年人平等的法律地位。决定是否接受医学治疗或者是"
-"住院是法律能力的行使。如果其他某一个人，不管是他是医生、法庭、或者强制监护人，被法律授权去以他们的意愿来代替你的，这就剥夺了你在与其他平等基础上地行使法律"
-"能力的权利。精神健康收治法律侵犯了第12条。有时候人们置于监护关系下，而监护人可以把他们放进精神病治疗机构并且代替他们同意强迫的电击治疗和药物治疗。如果他"
-"或她选择使用治疗时，应该提供支持，而不是提供监护人；而该支持应该尊重他或她的意愿和偏好。"
+"我们最大的胜利——一个基于家长式的模型向基于尊重我们的人权的模范转变的典范——在"
+"第12条的关于法律能力的文本中。国家必须承认残疾人享有与在与别人平等基础上的法"
+"律能力。这意味着什么呢？从行动的能力的意义而言，我们知道法律能力，就是指做决"
+"定的权利，以及与社会的其他成年人平等的法律地位。决定是否接受医学治疗或者是住"
+"院是法律能力的行使。如果其他某一个人，不管是他是医生、法庭、或者强制监护人，"
+"被法律授权去以他们的意愿来代替你的，这就剥夺了你在与其他平等基础上地行使法律"
+"能力的权利。精神健康收治法律侵犯了第12条。有时候人们置于监护关系下，而监护人"
+"可以把他们放进精神病治疗机构并且代替他们同意强迫的电击治疗和药物治疗。如果他"
+"或她选择使用治疗时，应该提供支持，而不是提供监护人；而该支持应该尊重他或她的"
+"意愿和偏好。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[134]
@@ -310,11 +320,15 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[142]
 msgid ""
-"一支由Tina Minkowitz领导的国际性的精神病学的使用者和幸存者队伍，积极参与了位于纽约的联合国从2002年8月的AdHoc委员会的第一次会议，直"
-"至到2006年12月13日采用完成的文本的全过程的协商当中。AdHoc委员会对于我们来说是一个独一无二的的过程。我们抓住了一个历史性的机会并且实现了某种基"
-"本和重要的事情，这件事情已经改变我们全部人和所有残疾人人的人权形势。我们许多人互相缔结了持续的友谊，也与其他残疾人和全世界的同盟者们结下了友谊。一起紧密的"
-"工作，在过去几年的过程中，亲身在联合国和通过电子邮件来讨论，我们把使用者/幸存者问题带到残障运动的中心，并且建立了丰富的共同点，特别在法律能力的问题上，也"
-"是对充分和平等享有人权的保证的最重要的考验。"
+"一支由Tina Minkowitz领导的国际性的精神病学的使用者和幸存者队伍，积极参与了位"
+"于纽约的联合国从2002年8月的AdHoc委员会的第一次会议，直至到2006年12月13日采用"
+"完成的文本的全过程的协商当中。AdHoc委员会对于我们来说是一个独一无二的的过程。"
+"我们抓住了一个历史性的机会并且实现了某种基本和重要的事情，这件事情已经改变我"
+"们全部人和所有残疾人人的人权形势。我们许多人互相缔结了持续的友谊，也与其他残"
+"疾人和全世界的同盟者们结下了友谊。一起紧密的工作，在过去几年的过程中，亲身在"
+"联合国和通过电子邮件来讨论，我们把使用者/幸存者问题带到残障运动的中心，并且建"
+"立了丰富的共同点，特别在法律能力的问题上，也是对充分和平等享有人权的保证的最"
+"重要的考验。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[167]
@@ -365,17 +379,22 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[206]
 msgid ""
-"WNUSP贡献了我们自己的几项建议书，包括协议的提议文本，大部分被接纳了。当国际残疾核心小组开始一起工作去提出一个统一的立场，在某些重要条款上，我们撰写和"
-"/或者协调IDC的工作，包括关于法律能力的第12条，关于自由的第14条，关于酷刑的第15条，关于病人的完整性的17条，关于隐私的第22条，关于住房和家庭的"
-"第23条，关于就业的第27条，关于政治参与的第29条，和关于康复的第25条的部分文本。我们工作的的一项重要方面是建立同盟，建立共识，和学习去与其他残疾权益"
-"积极分子进行合作。最终国际残疾核心小组发出一致和强有力的声音，来促进所有残疾人的人权进程表。"
+"WNUSP贡献了我们自己的几项建议书，包括协议的提议文本，大部分被接纳了。当国际残"
+"疾核心小组开始一起工作去提出一个统一的立场，在某些重要条款上，我们撰写和/或者"
+"协调IDC的工作，包括关于法律能力的第12条，关于自由的第14条，关于酷刑的第15条，"
+"关于病人的完整性的17条，关于隐私的第22条，关于住房和家庭的第23条，关于就业的"
+"第27条，关于政治参与的第29条，和关于康复的第25条的部分文本。我们工作的的一项"
+"重要方面是建立同盟，建立共识，和学习去与其他残疾权益积极分子进行合作。最终国"
+"际残疾核心小组发出一致和强有力的声音，来促进所有残疾人的人权进程表。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[208]
 msgid ""
-"WNUSP的参与到公约当中，最早甚至要追朔到当我们得知2002年6月在墨西哥城举行的一次会议，那次会议是聚集专家讨论公约，这是在参加第一次Ad Hoc委员"
-"会会议之前就已经开始的了。WNUSP要求和接受了邀请，并且提交了一份文件，不但提出了我们倡导的基本原则，也对墨西哥政府准备的起草文本表述意见。该会议成功地"
-"建立我们在非政府组织共同体中的地位，并且我们的倡议在会议上被非政府组织接受成为文件的一部分。"
+"WNUSP的参与到公约当中，最早甚至要追朔到当我们得知2002年6月在墨西哥城举行的一"
+"次会议，那次会议是聚集专家讨论公约，这是在参加第一次Ad Hoc委员会会议之前就已"
+"经开始的了。WNUSP要求和接受了邀请，并且提交了一份文件，不但提出了我们倡导的基"
+"本原则，也对墨西哥政府准备的起草文本表述意见。该会议成功地建立我们在非政府组"
+"织共同体中的地位，并且我们的倡议在会议上被非政府组织接受成为文件的一部分。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[212]
@@ -411,8 +430,8 @@ msgid ""
 "worked hard and lobbied hard, and had to listen to a lot of disrespectful "
 "opinions. In the last stages of the process we had to deal with a betrayal "
 "of our interests in a political process, when a footnote was inserted "
-"limiting the meaning of legal capacity in Arabic, Chinese and Russian to “"
-"capacity for rights” and not “capacity to act”. But we were able to turn "
+"limiting the meaning of legal capacity in Arabic, Chinese and Russian to "
+"“capacity for rights” and not “capacity to act”. But we were able to turn "
 "this around, with the help of our IDC allies and many governments who did "
 "not accept the footnote, and removing the footnote was the victory that "
 "capped our experience. "
@@ -438,8 +457,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[248]
 msgid ""
-"公约在2007年3月30日开放给成员国签署，在当日有大概一半联合国成员国签署了该公约，表明他们在本国批准的意愿（成为法律上受公约制约）。现在使公约中的理想"
-"变成现实也是国际社会的重要任务。"
+"公约在2007年3月30日开放给成员国签署，在当日有大概一半联合国成员国签署了该公"
+"约，表明他们在本国批准的意愿（成为法律上受公约制约）。现在使公约中的理想变成"
+"现实也是国际社会的重要任务。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[251]
@@ -557,8 +577,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[308]
 msgid ""
-"A、公约是条约的另一个称谓，是国家之间的有约束力的协议。《残疾人权利公约》是一个多边 "
-"的条约，一项多个国家之间条约。它宣告政府有特定的责任去尊重和加强残障人士的人权。"
+"A、公约是条约的另一个称谓，是国家之间的有约束力的协议。《残疾人权利公约》是一"
+"个多边 的条约，一项多个国家之间条约。它宣告政府有特定的责任去尊重和加强残障人"
+"士的人权。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[310]
@@ -567,7 +588,8 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[312]
 msgid ""
-"A：《残疾人权利公约》的第一条声明公约的目的是保护和促进所有残疾人的所有人权和基本自由。本条款关于残疾人的定义包括精障人士。这个表述清楚包括精神病学的使用"
+"A：《残疾人权利公约》的第一条声明公约的目的是保护和促进所有残疾人的所有人权和"
+"基本自由。本条款关于残疾人的定义包括精障人士。这个表述清楚包括精神病学的使用"
 "者和幸存者。"
 msgstr ""
 
@@ -576,7 +598,9 @@ msgid "-"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[314]
-msgid "A：公约的目的是为了保护和促进所有残障人士，包括那些精障人士的所有人权和基本自由。这个语言叙述涵盖了精神病学的使用者和幸存者。"
+msgid ""
+"A：公约的目的是为了保护和促进所有残障人士，包括那些精障人士的所有人权和基本自"
+"由。这个语言叙述涵盖了精神病学的使用者和幸存者。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[328]
@@ -597,8 +621,10 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[334]
 msgid ""
-"A：法律能力这个概念曾经被用作否认人格和剥夺使用者和幸存者管理我们自己的生活的资格。公约的第12条已经通过向所有残疾人赋予人格和通过承认我们拥有管理我们生"
-"活的法律能力，来废除这些对残疾人权利的剥夺。同样如果我们要求，我们可以寻求支持来行使我们的法律能力。这样，无论我们是否需要，支持就不再是强加于我们的，而是"
+"A：法律能力这个概念曾经被用作否认人格和剥夺使用者和幸存者管理我们自己的生活的"
+"资格。公约的第12条已经通过向所有残疾人赋予人格和通过承认我们拥有管理我们生活"
+"的法律能力，来废除这些对残疾人权利的剥夺。同样如果我们要求，我们可以寻求支持"
+"来行使我们的法律能力。这样，无论我们是否需要，支持就不再是强加于我们的，而是"
 "当我们希望行使法律能力时的必须提供给我们的帮助。"
 msgstr ""
 
@@ -641,9 +667,9 @@ msgid ""
 "disability. People with disabilities also have the right to live in the "
 "community, and to choose where and with whom to live, on an equal basis with "
 "others (and legal capacity ensures that each person can exercise this right "
-"directly and not have a guardian or family member substitute their decision)"
-". Forced institutionalization or hospitalization on the basis of disability "
-"is therefore prohibited. "
+"directly and not have a guardian or family member substitute their "
+"decision). Forced institutionalization or hospitalization on the basis of "
+"disability is therefore prohibited. "
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[444]
@@ -674,7 +700,9 @@ msgid "问：公约关于对他人造成危险的社会心理残障人士有什�
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[453]
-msgid "答：在与他人平等基础上的，侵犯他人权利的残疾人有权利受到警察和刑法系统的待遇，包括合理便利。"
+msgid ""
+"答：在与他人平等基础上的，侵犯他人权利的残疾人有权利受到警察和刑法系统的待"
+"遇，包括合理便利。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[455]
@@ -683,9 +711,11 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[456]
 msgid ""
-"答：将会设立一个国际监察委员会，来接受政府报告和作出建议；只有在政府已经批准附于公约的可选协议的情况下，该委员会也可以接受来自权利受到侵犯的个体的投诉。在"
-"政府的执行公约中将会有国家焦点，并且也有一个国家独立力量的监察机制。和其他残疾人一道，精神病学的使用者和幸存者有权利参与到政府执行公约的进程中来（例如：法"
-"律改革和政策制定）。"
+"答：将会设立一个国际监察委员会，来接受政府报告和作出建议；只有在政府已经批准"
+"附于公约的可选协议的情况下，该委员会也可以接受来自权利受到侵犯的个体的投诉。"
+"在政府的执行公约中将会有国家焦点，并且也有一个国家独立力量的监察机制。和其他"
+"残疾人一道，精神病学的使用者和幸存者有权利参与到政府执行公约的进程中来（例"
+"如：法律改革和政策制定）。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[459]
@@ -742,17 +772,20 @@ msgstr ""
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[491]
 msgid ""
 "We prefer to use the term “psychosocial disability” and would like to "
-"introduce it into the vocabulary rather than use the term “mental impairment”"
-" when we are lobbying for implementation of the Convention. We recognize "
-"that there may be difficulties in translating the word “psychosocial” into "
-"languages other than English. We urge members of WNUSP to confer with each "
-"other and use their best judgment in making the translation. "
+"introduce it into the vocabulary rather than use the term “mental "
+"impairment” when we are lobbying for implementation of the Convention. We "
+"recognize that there may be difficulties in translating the word "
+"“psychosocial” into languages other than English. We urge members of WNUSP "
+"to confer with each other and use their best judgment in making the "
+"translation. "
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[493]
 msgid ""
-"我们宁愿使用术语“社会心理残疾”，并且在我们为实施公约进行游说时愿意把它引入词汇库，而不是使用术语“精神残障”。在把“社会心理”一词翻译成除英语以外的语言"
-"时，我们承认可能存在困难。我们促使WNUSP成员相互对照和在做翻译时使用他们最佳的判断。"
+"我们宁愿使用术语“社会心理残疾”，并且在我们为实施公约进行游说时愿意把它引入词"
+"汇库，而不是使用术语“精神残障”。在把“社会心理”一词翻译成除英语以外的语言时，"
+"我们承认可能存在困难。我们促使WNUSP成员相互对照和在做翻译时使用他们最佳的判"
+"断。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[495]
@@ -910,7 +943,9 @@ msgid "（p）关心多种形式的歧视和特定地提到基于固有来源的
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[565]
-msgid "（t）突出强调大多数残疾人生活在贫困中，并且承认对于强调贫困对于残疾人的负面影响的极重要的需要"
+msgid ""
+"（t）突出强调大多数残疾人生活在贫困中，并且承认对于强调贫困对于残疾人的负面影"
+"响的极重要的需要"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[567]
@@ -987,11 +1022,14 @@ msgid "第二条：阐述定义包括以下定义："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[590]
-msgid "“基于残疾的歧视”（有限制人权和基本自由的目的或影响的基于残疾的区分，和包括对合理便利的拒绝）"
+msgid ""
+"“基于残疾的歧视”（有限制人权和基本自由的目的或影响的基于残疾的区分，和包括对"
+"合理便利的拒绝）"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[592]
-msgid "“合理便利”（对于确保平等享用和行使人权和基本自由，在特定的案例中需要的调整）"
+msgid ""
+"“合理便利”（对于确保平等享用和行使人权和基本自由，在特定的案例中需要的调整）"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[594]
@@ -1058,8 +1096,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]
 msgid ""
-"：没有歧视下保证残疾人的所有人权和基本自由，并要求政府修改它们的法律和做法来遵从公约。第四条的一条重要条款要求政府有责任在执行公约和与残疾人相关的问题中与"
-"残疾人组织紧密商议。"
+"：没有歧视下保证残疾人的所有人权和基本自由，并要求政府修改它们的法律和做法来"
+"遵从公约。第四条的一条重要条款要求政府有责任在执行公约和与残疾人相关的问题中"
+"与残疾人组织紧密商议。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[619]
@@ -1068,21 +1107,28 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[620]
-msgid "第四条可以单独应用，也可以与公约中的其他条款联合应用，来废除侵犯残疾人的人权的法律、政策、和做法。"
+msgid ""
+"第四条可以单独应用，也可以与公约中的其他条款联合应用，来废除侵犯残疾人的人权"
+"的法律、政策、和做法。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[621]
 msgid ""
-"1）所有歧视性法律必须废除。这包括监护人制度或者无行为能力法律，基于残疾的剥夺残疾人进行法律行为的条款（譬如行使投票权和结婚权）、以及批准没有自由和当事人"
+"1）所有歧视性法律必须废除。这包括监护人制度或者无行为能力法律，基于残疾的剥夺"
+"残疾人进行法律行为的条款（譬如行使投票权和结婚权）、以及批准没有自由和当事人"
 "知情同意下的对于自由的剥夺或者精神病学的干预。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[622]
-msgid "2）对于社会心理残疾人士的歧视必须受到法律禁止。社会心理残疾必须在与其他类型残障平等的基础上包括在反歧视立法中。"
+msgid ""
+"2）对于社会心理残疾人士的歧视必须受到法律禁止。社会心理残疾必须在与其他类型残"
+"障平等的基础上包括在反歧视立法中。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[623]
-msgid "3）政府必须确保公共官员和机构不基于残疾歧视或以另外方式违反公约。政府也必须采取措施消除来自个人、组织或私人企业的歧视。"
+msgid ""
+"3）政府必须确保公共官员和机构不基于残疾歧视或以另外方式违反公约。政府也必须采"
+"取措施消除来自个人、组织或私人企业的歧视。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[624]
@@ -1090,7 +1136,9 @@ msgid "4）强制性的和暴力式的干预构成歧视，必须被废除。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[625]
-msgid "5）精神病学的使用者和幸存者的组织有权利被在公约的执行和所有与我们相关的法律和政策的事务中被咨询。"
+msgid ""
+"5）精神病学的使用者和幸存者的组织有权利被在公约的执行和所有与我们相关的法律和"
+"政策的事务中被咨询。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[626]
@@ -1132,7 +1180,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]
-msgid "保证法律规定的平等保护和平等权益，并且禁止基于残疾的歧视，并要求提供合理便利。"
+msgid ""
+"保证法律规定的平等保护和平等权益，并且禁止基于残疾的歧视，并要求提供合理便"
+"利。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[637]
@@ -1141,12 +1191,15 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[638]
 msgid ""
-"2）确认何种合理便利对社会心理残疾人士的意义，并确保提供该种便利。需要合理便利的情况包括与政府机构（包括警察和刑法制度）、教育、工作和行使法律能力等的互动"
+"2）确认何种合理便利对社会心理残疾人士的意义，并确保提供该种便利。需要合理便利"
+"的情况包括与政府机构（包括警察和刑法制度）、教育、工作和行使法律能力等的互动"
 "（支持性自主决策）。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[640]
-msgid "第六条 确保残疾妇女和残疾女孩平等享有人权和基本自由，并且要求采取措施，确保妇女地位得到提高，得到充分发展，能力得到增强。"
+msgid ""
+"第六条 确保残疾妇女和残疾女孩平等享有人权和基本自由，并且要求采取措施，确保妇"
+"女地位得到提高，得到充分发展，能力得到增强。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[667]
@@ -1206,7 +1259,9 @@ msgid "保护妇女和女孩免于基于性别、残疾或性别和残疾的相�
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[1]/text:p[0]
-msgid "确定影响身为精神病学的使用者和幸存者的妇女和女孩的、多重或交叉歧视的范围，并采取合适行动。"
+msgid ""
+"确定影响身为精神病学的使用者和幸存者的妇女和女孩的、多重或交叉歧视的范围，并"
+"采取合适行动。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[685]
@@ -1231,7 +1286,8 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[694]
 msgid ""
-"这些侵犯不仅限于妇女，而是作为精神病学幸存者的妇女的经历的一个决定性的部分；防止暴力（第16条）的责任和与文化的陈规旧习作斗争（第八条），和在《消除妇女歧"
+"这些侵犯不仅限于妇女，而是作为精神病学幸存者的妇女的经历的一个决定性的部分；"
+"防止暴力（第16条）的责任和与文化的陈规旧习作斗争（第八条），和在《消除妇女歧"
 "视公约》中的类似的责任，应该通过从包括类似事情的性别和残疾的角度来解决。"
 msgstr ""
 
@@ -1272,12 +1328,14 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]
 msgid ""
-"保证残疾儿童拥有与其他儿童相同的权利，包括自由表达意见和在与他们相关的事情伤考虑他们意见的权利，并且在行使这些的权利时拥有与年龄和残疾相适合的支持。"
+"保证残疾儿童拥有与其他儿童相同的权利，包括自由表达意见和在与他们相关的事情伤"
+"考虑他们意见的权利，并且在行使这些的权利时拥有与年龄和残疾相适合的支持。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]
 msgid ""
-"儿童不能遭受电击、精神外科手术、或者抗精神病。任何其他精神病学的干预必须包括儿童的参与，并尊重他们基于自由和知情同意（见第25条）的卫生保健的权利，这些内"
+"儿童不能遭受电击、精神外科手术、或者抗精神病。任何其他精神病学的干预必须包括"
+"儿童的参与，并尊重他们基于自由和知情同意（见第25条）的卫生保健的权利，这些内"
 "容体现在《联合国儿童权利公约》第12条的所定义的他们演变中的能力的文本当中。"
 msgstr ""
 
@@ -1319,7 +1377,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]
-msgid "提出提高意识和要求政府形成对残疾人的权利的尊重，并且在包括家庭和社区的社会的各个层面与偏见和有害的做法作斗争，"
+msgid ""
+"提出提高意识和要求政府形成对残疾人的权利的尊重，并且在包括家庭和社区的社会的"
+"各个层面与偏见和有害的做法作斗争，"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[744]
@@ -1336,7 +1396,9 @@ msgid "协助社区去发展支持以及与危机中的人士互动的能力。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[2]/text:p[0]
-msgid "发展和教育对于冲突解决的非暴力和非歧视性的方法。使用精神病标签化、制度化，或者干预、或者法律化的使丧失能力等解决冲突的方法是不被接受的。"
+msgid ""
+"发展和教育对于冲突解决的非暴力和非歧视性的方法。使用精神病标签化、制度化，或"
+"者干预、或者法律化的使丧失能力等解决冲突的方法是不被接受的。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[768]
@@ -1359,7 +1421,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]
-msgid "要求国家采取措施确保残疾人士在与其他人平等的基础上，无障碍地获得物质环境、使用交通工具、利用信息和通讯，和其他向普通公众提供的设施和服务。"
+msgid ""
+"要求国家采取措施确保残疾人士在与其他人平等的基础上，无障碍地获得物质环境、使"
+"用交通工具、利用信息和通讯，和其他向普通公众提供的设施和服务。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[777]
@@ -1368,7 +1432,9 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[779]
-msgid "在与使用者和幸存者组织的商议中，确保社会心理残疾人士的无障碍需求被确认和强调。"
+msgid ""
+"在与使用者和幸存者组织的商议中，确保社会心理残疾人士的无障碍需求被确认和强"
+"调。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[781]
@@ -1380,9 +1446,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[782]
 msgid ""
-"The right to life (Article 10) does not override the right to liberty ("
-"Article 14) when it comes to issues of suicidality. The right to life cannot "
-"be superseded by the right to liberty. Both rights must be respected. "
+"The right to life (Article 10) does not override the right to liberty "
+"(Article 14) when it comes to issues of suicidality. The right to life "
+"cannot be superseded by the right to liberty. Both rights must be respected. "
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[784]
@@ -1407,11 +1473,15 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]
-msgid "重申所有人类的生命权，和使政府有责任确保让残疾人在与其他人平等的基础上有效地享有它。"
+msgid ""
+"重申所有人类的生命权，和使政府有责任确保让残疾人在与其他人平等的基础上有效地"
+"享有它。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[789]
-msgid "当提到自杀问题时，生命权（第十条）并不优先于自由权。生命权不能被自由权所取代。两项权利都必须受到尊重。"
+msgid ""
+"当提到自杀问题时，生命权（第十条）并不优先于自由权。生命权不能被自由权所取"
+"代。两项权利都必须受到尊重。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[791]
@@ -1420,7 +1490,8 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]
-msgid "对谋杀残疾人进行控告，并且确保残疾人在与其他人平等的基础上拥有生存的方式。"
+msgid ""
+"对谋杀残疾人进行控告，并且确保残疾人在与其他人平等的基础上拥有生存的方式。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[796]
@@ -1452,7 +1523,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[0]/text:p[0]
-msgid "在武装冲突、人道主义紧急情况和自然灾害的情况下，要求政府尊重国际人权和人道主义法律，并且采取措施确保残疾人在该种环境下的安全。"
+msgid ""
+"在武装冲突、人道主义紧急情况和自然灾害的情况下，要求政府尊重国际人权和人道主"
+"义法律，并且采取措施确保残疾人在该种环境下的安全。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[803]
@@ -1461,7 +1534,9 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]
-msgid "确保社会心理残疾人士能够使用需要的支持系统，以及安全措施和生命的必需品，并且不能比一般大众受到更多的限制。"
+msgid ""
+"确保社会心理残疾人士能够使用需要的支持系统，以及安全措施和生命的必需品，并且"
+"不能比一般大众受到更多的限制。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[822]
@@ -1523,13 +1598,16 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[830]
 msgid ""
-"第十二条 保证享有法律能力的权利，包括拥有权利的能力和行为的能力（行使权利和承担义务以及日常生活的自主做决定），并且要求政府在那些可能需要协助的人行使法律"
-"能力时向他们提供便利；任何与行使法律能力相关的措施必须尊重本人的权利、意愿和偏好，必须建立防护措施防止滥用。"
+"第十二条 保证享有法律能力的权利，包括拥有权利的能力和行为的能力（行使权利和承"
+"担义务以及日常生活的自主做决定），并且要求政府在那些可能需要协助的人行使法律"
+"能力时向他们提供便利；任何与行使法律能力相关的措施必须尊重本人的权利、意愿和"
+"偏好，必须建立防护措施防止滥用。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[831]
 msgid ""
-"第12条是公约中最具创新性和深远意义的条款，并且对于精神病学使用者和幸存者有重大意义。不是被当作其他人施加影响的卑微的人对待，而是在在危机、混乱或悲痛时刻"
+"第12条是公约中最具创新性和深远意义的条款，并且对于精神病学使用者和幸存者有重"
+"大意义。不是被当作其他人施加影响的卑微的人对待，而是在在危机、混乱或悲痛时刻"
 "提供援助，我们对这种援助有接受或拒绝的权利。"
 msgstr ""
 
@@ -1543,19 +1621,26 @@ msgid "在整个司法系统废除监护人制度和无行为能力法律和条�
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[1]/text:p[0]
-msgid "废除精神病防御和以残疾中立标准代替来判决刑事责任（例如：实际犯罪意图，考虑犯罪的环境，动机等等）。"
+msgid ""
+"废除精神病防御和以残疾中立标准代替来判决刑事责任（例如：实际犯罪意图，考虑犯"
+"罪的环境，动机等等）。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[2]/text:p[0]
-msgid "在做决定中发展机制以提供协助，以达到满足有多元化需求的残疾人的广泛程度。"
+msgid ""
+"在做决定中发展机制以提供协助，以达到满足有多元化需求的残疾人的广泛程度。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[3]/text:p[0]
-msgid "在“支持性自主决策”中，残疾人的判断和意愿没有争议，不像在监护人制度和替代性决策一样。"
+msgid ""
+"在“支持性自主决策”中，残疾人的判断和意愿没有争议，不像在监护人制度和替代性决"
+"策一样。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[4]/text:p[0]
-msgid "惯常地应付需要行使法律能力的行动的机构（譬如银行、公证员、法官、医疗人员）需要提供一些协助措施，以作为一种合理的便利。"
+msgid ""
+"惯常地应付需要行使法律能力的行动的机构（譬如银行、公证员、法官、医疗人员）需"
+"要提供一些协助措施，以作为一种合理的便利。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[833]
@@ -1594,7 +1679,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]
-msgid "保证残疾人获得司法保护，包括通过便利去促使他在法律诉讼程序和调查中作为一个证人或参与方，并且要求对警察和其他相关司法领域工作人员进行培训。"
+msgid ""
+"保证残疾人获得司法保护，包括通过便利去促使他在法律诉讼程序和调查中作为一个证"
+"人或参与方，并且要求对警察和其他相关司法领域工作人员进行培训。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[845]
@@ -1607,7 +1694,9 @@ msgid "2）废除使社会心理残疾人士失去成为原告和证人资格的
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[848]
-msgid "3）废除对社会心理残疾人士无限期的延长审判的法律条款，和用保护社会心理残疾人士的法定诉讼程序权利来代替它们。"
+msgid ""
+"3）废除对社会心理残疾人士无限期的延长审判的法律条款，和用保护社会心理残疾人士"
+"的法定诉讼程序权利来代替它们。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[870]
@@ -1652,8 +1741,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[882]
 msgid ""
-"第14条 保证残疾人在与其他人平等基础上的自由和人身安全，确保不得以残疾作为剥夺自由的理由，以及被剥夺自由的残疾人，在与其他人平等的基础上，有权获得人权的"
-"保障的权利，和获得合理便利的待遇。"
+"第14条 保证残疾人在与其他人平等基础上的自由和人身安全，确保不得以残疾作为剥夺"
+"自由的理由，以及被剥夺自由的残疾人，在与其他人平等的基础上，有权获得人权的保"
+"障的权利，和获得合理便利的待遇。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[885]
@@ -1670,7 +1760,9 @@ msgid "释放现时在精神病科环境的、或者基于社会心理残疾的�
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[2]/text:p[0]
-msgid "确保社会心理残疾人士拥有平等获得进入决定其是有罪还是无罪的法定程序，包括无罪推定和法定诉讼程序。（同见第十三条下“需要做什么”，第三节）"
+msgid ""
+"确保社会心理残疾人士拥有平等获得进入决定其是有罪还是无罪的法定程序，包括无罪"
+"推定和法定诉讼程序。（同见第十三条下“需要做什么”，第三节）"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[3]/text:p[0]
@@ -1721,7 +1813,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]
-msgid "禁止对残疾人实施酷刑和残忍、不人道或有辱人格的待遇和惩罚，包括对其不同意的医学试验"
+msgid ""
+"禁止对残疾人实施酷刑和残忍、不人道或有辱人格的待遇和惩罚，包括对其不同意的医"
+"学试验"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[913]
@@ -1731,20 +1825,25 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[914]
 msgid ""
-"免于酷刑、残忍、不人道或有辱人格的待遇或惩罚，是国际人权法中一个最得到确认的原则。未经本人同意的医疗试验在《国际公民和政治权利公约》第七条中首先被视为一种"
-"形式的酷刑、残忍、不人道的或有辱人格的待遇或惩罚。"
+"免于酷刑、残忍、不人道或有辱人格的待遇或惩罚，是国际人权法中一个最得到确认的"
+"原则。未经本人同意的医疗试验在《国际公民和政治权利公约》第七条中首先被视为一"
+"种形式的酷刑、残忍、不人道的或有辱人格的待遇或惩罚。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]
 msgid ""
-"精神病药物和其他像电击那样的侵害性的方法是固有的试验性的，并且使个人的精神和身体能力、自主权和个性受到危险。没有自由和知情同意而使用像这样的方法构成酷刑、"
-"残忍 、不人道的和有辱人格的待遇或惩罚。强制性、威胁性或者欺骗性的精神病学干预必须马上停止和受到刑罚制裁。"
+"精神病药物和其他像电击那样的侵害性的方法是固有的试验性的，并且使个人的精神和"
+"身体能力、自主权和个性受到危险。没有自由和知情同意而使用像这样的方法构成酷"
+"刑、残忍 、不人道的和有辱人格的待遇或惩罚。强制性、威胁性或者欺骗性的精神病学"
+"干预必须马上停止和受到刑罚制裁。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[1]/text:p[0]
 msgid ""
-"确保精神病学干预在任何理由下，基于任何种类的歧视，或因为任何与第三方利益相关的目的，不被用于审问、威胁或者恐吓、惩罚、预防措施的目的（基于这些目的酷刑是在"
-"《联合国反酷刑公约》第一条里面定义的）。像这样的使用必须被禁止，无论是精神病科环境、监狱、住宅服务、儿童或老人设施，或在任何环境。"
+"确保精神病学干预在任何理由下，基于任何种类的歧视，或因为任何与第三方利益相关"
+"的目的，不被用于审问、威胁或者恐吓、惩罚、预防措施的目的（基于这些目的酷刑是"
+"在《联合国反酷刑公约》第一条里面定义的）。像这样的使用必须被禁止，无论是精神"
+"病科环境、监狱、住宅服务、儿童或老人设施，或在任何环境。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[925]
@@ -1797,18 +1896,23 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[936]
 msgid ""
-"3)一些精神病学方法可能是固有的不人道的和有辱人格的，应该被禁用。例如：直接电击使人受到脑损伤的影响之外，还在没有麻醉的情况下经历抽搐的充分的力量，并且它"
-"应该被认作是一种形式的酷刑、残忍、不人道、有辱人格的待遇，无论本人是否要求或得到同意。"
+"3)一些精神病学方法可能是固有的不人道的和有辱人格的，应该被禁用。例如：直接电"
+"击使人受到脑损伤的影响之外，还在没有麻醉的情况下经历抽搐的充分的力量，并且它"
+"应该被认作是一种形式的酷刑、残忍、不人道、有辱人格的待遇，无论本人是否要求或"
+"得到同意。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[938]
 msgid ""
-"请注意第二十五条，要求必须基于自由和知情同意权提供卫生保健。这也许是一个更加直接的停止强制性、威胁性的和欺骗的精神病学干预的基础，但是倡导者应该意识到免于"
-"酷刑、残忍、不人道、有辱人格的待遇或惩罚是相关联的和可应用的。"
+"请注意第二十五条，要求必须基于自由和知情同意权提供卫生保健。这也许是一个更加"
+"直接的停止强制性、威胁性的和欺骗的精神病学干预的基础，但是倡导者应该意识到免"
+"于酷刑、残忍、不人道、有辱人格的待遇或惩罚是相关联的和可应用的。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[0]/text:p[0]
-msgid "要求防止剥削、暴力和凌虐，包括设计用于服务残疾人的方案的监督，被保证的对侵犯的检举，和促进恢复和被害人的康复。"
+msgid ""
+"要求防止剥削、暴力和凌虐，包括设计用于服务残疾人的方案的监督，被保证的对侵犯"
+"的检举，和促进恢复和被害人的康复。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[941]
@@ -1817,13 +1921,16 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[0]/text:p[0]
-msgid "在家庭环境、社区和服务提供者的设施中，防止所有形式的剥削、暴力和凌虐。这包括性虐待和暴力、经济剥削和其他各种形式。"
+msgid ""
+"在家庭环境、社区和服务提供者的设施中，防止所有形式的剥削、暴力和凌虐。这包括"
+"性虐待和暴力、经济剥削和其他各种形式。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[1]/text:p[0]
 msgid ""
-"像药物施行、电击或者精神外科手术这样的违背他人意愿或没有自由和知情同意的精神病学干预，是必须被防范措施、监管、检举和对被害人的服务所设法解决的剥削、暴力和"
-"凌虐的形式，像本条款要求的一样。"
+"像药物施行、电击或者精神外科手术这样的违背他人意愿或没有自由和知情同意的精神"
+"病学干预，是必须被防范措施、监管、检举和对被害人的服务所设法解决的剥削、暴力"
+"和凌虐的形式，像本条款要求的一样。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[948]
@@ -1839,7 +1946,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[0]/text:p[0]
-msgid "剥削、暴力和凌虐的幸存者应该获得社会支持和他们选择的服务，该支持和服务在接受精神病科诊断时不应该有条件限制。"
+msgid ""
+"剥削、暴力和凌虐的幸存者应该获得社会支持和他们选择的服务，该支持和服务在接受"
+"精神病科诊断时不应该有条件限制。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]
@@ -1885,12 +1994,15 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[0]/text:p[0]
 msgid ""
-"当残疾人受到暴力的或者有辱人格的做法对待时，在平等基础上的对完整性的尊重的权利受到侵害。这种权利可以比免于酷刑、残忍、不人道或者有辱人格的待遇或惩罚的权利"
-"更加广泛，并且可以被视为它更积极的表述。"
+"当残疾人受到暴力的或者有辱人格的做法对待时，在平等基础上的对完整性的尊重的权"
+"利受到侵害。这种权利可以比免于酷刑、残忍、不人道或者有辱人格的待遇或惩罚的权"
+"利更加广泛，并且可以被视为它更积极的表述。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[1]/text:p[0]
-msgid "完整性的权利可以因为这些程序和药物对于健康器官和人类自主权和创造力造成伤害，被用于拒绝精神外科手术、电击和的抗精神病药物的施行。"
+msgid ""
+"完整性的权利可以因为这些程序和药物对于健康器官和人类自主权和创造力造成伤害，"
+"被用于拒绝精神外科手术、电击和的抗精神病药物的施行。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[980]
@@ -1914,7 +2026,8 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[0]/text:p[0]
-msgid "保证自由迁徙和选择自己居所的自由，享有国籍的权利和使用像移民程序那样的程序。"
+msgid ""
+"保证自由迁徙和选择自己居所的自由，享有国籍的权利和使用像移民程序那样的程序。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[986]
@@ -1924,7 +2037,8 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[988]
 msgid ""
-"关于国际旅行、移民和归化的法律和政策应该在与其他人平等的基础上对待残疾人，包括合理便利。任何人不能基于过往和现在的社会心理残疾被拒绝进入一个国家。"
+"关于国际旅行、移民和归化的法律和政策应该在与其他人平等的基础上对待残疾人，包"
+"括合理便利。任何人不能基于过往和现在的社会心理残疾被拒绝进入一个国家。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[990]
@@ -1954,7 +2068,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1000]
-msgid "第十九条 保证有与其他人平等地选择居住在社区的权利，包括选择住在哪里和与谁同住的权利，并确保获得像这样的生活选择的支持。"
+msgid ""
+"第十九条 保证有与其他人平等地选择居住在社区的权利，包括选择住在哪里和与谁同住"
+"的权利，并确保获得像这样的生活选择的支持。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1002]
@@ -1963,11 +2079,15 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[32]/text:list-item[0]/text:p[0]
-msgid "把我们的人从各种机构中释放出来。确保没有违背任何人的意愿监禁他/她，并且在社区提供住房和服务。"
+msgid ""
+"把我们的人从各种机构中释放出来。确保没有违背任何人的意愿监禁他/她，并且在社区"
+"提供住房和服务。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[32]/text:list-item[1]/text:p[0]
-msgid "确保住房和服务，包括住宅服务，尊重个人自主权。在居住和门诊服务中结束威胁性性的药物政策。"
+msgid ""
+"确保住房和服务，包括住宅服务，尊重个人自主权。在居住和门诊服务中结束威胁性性"
+"的药物政策。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1014]
@@ -1994,7 +2114,9 @@ msgid "对于残疾人，社区服务必须是容易得到和向他们开放的�
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[33]/text:list-item[1]/text:p[0]
-msgid "在与使用者/幸存者组织商议过程中发展并提供广泛的服务，包括残疾人相互支持、危机宿舍和安全缓刑和辩护的处所。"
+msgid ""
+"在与使用者/幸存者组织商议过程中发展并提供广泛的服务，包括残疾人相互支持、危机"
+"宿舍和安全缓刑和辩护的处所。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1025]
@@ -2029,7 +2151,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1064]
-msgid "第二十一条 要求国家通过所有残疾人选择的通讯形式，确保残疾人行使获得信息的表达的自由。"
+msgid ""
+"第二十一条 要求国家通过所有残疾人选择的通讯形式，确保残疾人行使获得信息的表达"
+"的自由。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1066]
@@ -2039,8 +2163,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[0]/text:p[0]
 msgid ""
-"确保向残疾人提供充分和准确的信息。一个社会心理残疾人士面临的重要歧视是：人们以他们认为我们应该被告知的信息告知我们，而不是向我们提供我们有权利接受和获得的"
-"信息。"
+"确保向残疾人提供充分和准确的信息。一个社会心理残疾人士面临的重要歧视是：人们"
+"以他们认为我们应该被告知的信息告知我们，而不是向我们提供我们有权利接受和获得"
+"的信息。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]
@@ -2067,7 +2192,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1102]
-msgid "第二十二条 保证隐私，并且特别是在与其他人平等的基础上，保护残疾人个人、健康和康复信息。"
+msgid ""
+"第二十二条 保证隐私，并且特别是在与其他人平等的基础上，保护残疾人个人、健康和"
+"康复信息。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1104]
@@ -2076,7 +2203,9 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1107]
-msgid "保护社会心理残疾人士在与其他人平等的基础上，在羁押诉讼和其他法律诉讼程序中免于受到发布其医疗记录的压力。"
+msgid ""
+"保护社会心理残疾人士在与其他人平等的基础上，在羁押诉讼和其他法律诉讼程序中免"
+"于受到发布其医疗记录的压力。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1140]
@@ -2124,7 +2253,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1153]
-msgid "第二十三条 保证家庭、亲子关系、婚姻和恋爱关系的平等，和保持生育的权利，并且确保不能基于家长或孩子的残疾剥夺孩子的监护。"
+msgid ""
+"第二十三条 保证家庭、亲子关系、婚姻和恋爱关系的平等，和保持生育的权利，并且确"
+"保不能基于家长或孩子的残疾剥夺孩子的监护。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1155]
@@ -2192,7 +2323,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1190]
-msgid "第二十四条 保证各级水平实行包容性教育，包括高等教育和终身教育，并且儿童不能被基于残疾被排除在普通教育系统之外。"
+msgid ""
+"第二十四条 保证各级水平实行包容性教育，包括高等教育和终身教育，并且儿童不能被"
+"基于残疾被排除在普通教育系统之外。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1192]
@@ -2201,15 +2334,20 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[0]/text:p[0]
-msgid "确保教师能够满足学生多元化的学习需求，并且提供安全和尊敬的学术和社会环境。"
+msgid ""
+"确保教师能够满足学生多元化的学习需求，并且提供安全和尊敬的学术和社会环境。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[1]/text:p[0]
-msgid "向有社会心理残疾或学习障碍的学生提供支持或合理便利。确认和满足他们的需求，而不标签化儿童。"
+msgid ""
+"向有社会心理残疾或学习障碍的学生提供支持或合理便利。确认和满足他们的需求，而"
+"不标签化儿童。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[2]/text:p[0]
-msgid "确保儿童不因为社会心理残疾被排除在教育之外，或者被威胁使用精神卫生服务或者精神病药物作为接受教育的条件。"
+msgid ""
+"确保儿童不因为社会心理残疾被排除在教育之外，或者被威胁使用精神卫生服务或者精"
+"神病药物作为接受教育的条件。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[3]/text:p[0]
@@ -2273,8 +2411,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[2]/text:p[0]
 msgid ""
-"发展和促进医疗模式精神病学的的替代方案，这些方案受到充分资助和独立于医疗系统。确保这些替代方案为不接受精神科诊断的、有精神和情绪的需求的人们接受支持而存在"
-"。"
+"发展和促进医疗模式精神病学的的替代方案，这些方案受到充分资助和独立于医疗系"
+"统。确保这些替代方案为不接受精神科诊断的、有精神和情绪的需求的人们接受支持而"
+"存在。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1243]
@@ -2302,7 +2441,9 @@ msgid "确保身体健康问题不被误诊为社会心理残疾。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[39]/text:list-item[1]/text:p[0]
-msgid "精神健康审查是一项导致标签化和歧视、而不是满足人类的需要的早期诊断和干预中的不合适的应用。特别的，任何人不应该开精神病药方作为预防措施。"
+msgid ""
+"精神健康审查是一项导致标签化和歧视、而不是满足人类的需要的早期诊断和干预中的"
+"不合适的应用。特别的，任何人不应该开精神病药方作为预防措施。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[39]/text:list-item[2]/text:p[0]
@@ -2332,9 +2473,8 @@ msgid ""
 "Article 27 guarantees non-discrimination and reasonable accommodation in the "
 "right to work and requires positive measures to ensure that the open labor "
 "market is inclusive to persons with disabilities and to promote "
-"opportunities for employment, career advancement and self-"
-"employment/entrepreneurship; slavery, servitude and forced labor are "
-"prohibited. "
+"opportunities for employment, career advancement and self-employment/"
+"entrepreneurship; slavery, servitude and forced labor are prohibited. "
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1292]
@@ -2356,7 +2496,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1299]
-msgid "第二十六条 要求采取措施使得残疾人最大限度地发展他们的能力，包括通过残疾人相互支持，恢复和康复。"
+msgid ""
+"第二十六条 要求采取措施使得残疾人最大限度地发展他们的能力，包括通过残疾人相互"
+"支持，恢复和康复。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1301]
@@ -2370,8 +2512,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1304]
 msgid ""
-"第二十七条 保证工作的权利不受歧视和提供合理便利，并要求采取积极措施确保残疾人包含在开放性劳动市场内，并促进就业、职业提升和自营就业/创业经营的机会；禁止"
-"奴隶制度、奴役和强迫性劳动。"
+"第二十七条 保证工作的权利不受歧视和提供合理便利，并要求采取积极措施确保残疾人"
+"包含在开放性劳动市场内，并促进就业、职业提升和自营就业/创业经营的机会；禁止奴"
+"隶制度、奴役和强迫性劳动。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1306]
@@ -2380,7 +2523,9 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[40]/text:list-item[0]/text:p[0]
-msgid "制定可应用于就业的所有形式和领域的反歧视法律和政策，并确保社会心理残疾人士在与其他所有人平等基础上的充分受到这些法律和政策的保护。"
+msgid ""
+"制定可应用于就业的所有形式和领域的反歧视法律和政策，并确保社会心理残疾人士在"
+"与其他所有人平等基础上的充分受到这些法律和政策的保护。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[40]/text:list-item[1]/text:p[0]
@@ -2416,8 +2561,8 @@ msgid ""
 "7) End the exceptions to national labor laws given to sheltered workshops or "
 "nonprofit organizations employing persons with disabilities. Such exceptions "
 "(for example, allowing lower wages to be paid in these settings) do not help "
-"people with disabilities but perpetuate exploitation (contrary to Article 16)"
-" and constitute discrimination. "
+"people with disabilities but perpetuate exploitation (contrary to Article "
+"16) and constitute discrimination. "
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1331]
@@ -2443,19 +2588,22 @@ msgid "要求向就业的各个方面和就业资格提供合理便利。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[3]/text:p[0]
-msgid "促进自营就业、创业经营、分享工作、和为基于个人选择的职业做准备的高等教育。"
+msgid ""
+"促进自营就业、创业经营、分享工作、和为基于个人选择的职业做准备的高等教育。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[4]/text:p[0]
 msgid ""
-"结束国家劳动法给予雇佣残疾人的庇护工场或非牟利组织的例外。像这样的例外（例如，在这些环境中容许支付更低的工资）不但没有帮助残疾人，而且还使剥削（与第十六条"
-"相反）长期保持下去和构成歧视。"
+"结束国家劳动法给予雇佣残疾人的庇护工场或非牟利组织的例外。像这样的例外（例"
+"如，在这些环境中容许支付更低的工资）不但没有帮助残疾人，而且还使剥削（与第十"
+"六条相反）长期保持下去和构成歧视。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[5]/text:p[0]
 msgid ""
-"残疾人就业应被视为工作，而不是治疗或慈善。如果其他就业和社会企业支付最低生活工资和遵从其他保护工人的权利和尊严的一般要求，也是有价值的。至于谈到歧视残疾人"
-"的“庇护工场”支付的工资，基于该原则不应该再运作下去。"
+"残疾人就业应被视为工作，而不是治疗或慈善。如果其他就业和社会企业支付最低生活"
+"工资和遵从其他保护工人的权利和尊严的一般要求，也是有价值的。至于谈到歧视残疾"
+"人的“庇护工场”支付的工资，基于该原则不应该再运作下去。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1349]
@@ -2486,7 +2634,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1357]
-msgid "第二十八条 对生活在贫穷状态下的残疾人，保证获得适足的生活水平和利用社会保护项目和减贫项目，并且与残疾相关的费用支出的援助，包括临时看护。"
+msgid ""
+"第二十八条 对生活在贫穷状态下的残疾人，保证获得适足的生活水平和利用社会保护项"
+"目和减贫项目，并且与残疾相关的费用支出的援助，包括临时看护。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1359]
@@ -2495,7 +2645,9 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[42]/text:list-item[0]/text:p[0]
-msgid "采取一切必要的措施以使社会心理残疾人士实现适足生活水平，包括适足的食物、供水、衣服和住房。不应该强迫任何人因为缺乏生活必需品进入机构。"
+msgid ""
+"采取一切必要的措施以使社会心理残疾人士实现适足生活水平，包括适足的食物、供"
+"水、衣服和住房。不应该强迫任何人因为缺乏生活必需品进入机构。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[42]/text:list-item[1]/text:p[0]
@@ -2534,7 +2686,8 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1399]
 msgid ""
-"第二十九条 保证参与政治和公共活动的平等，包括残疾人投票和被选举的权利和机会，和使政府承担促进残疾人参与处理公共事务的责任，包括通过残疾人组织。"
+"第二十九条 保证参与政治和公共活动的平等，包括残疾人投票和被选举的权利和机会，"
+"和使政府承担促进残疾人参与处理公共事务的责任，包括通过残疾人组织。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1401]
@@ -2551,7 +2704,8 @@ msgid "确保在机构中的人拥有投票的权利。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[43]/text:list-item[2]/text:p[0]
-msgid "在国家、地区、国际和本地等各层面承认和支持精神病学的使用者和幸存者组织。"
+msgid ""
+"在国家、地区、国际和本地等各层面承认和支持精神病学的使用者和幸存者组织。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1430]
@@ -2588,7 +2742,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1440]
-msgid "第三十条 除其他事项外，保证参加文化活动和利用个人创造和智力潜力的权利，而且尊重和支持残疾人的文化身份的权利。"
+msgid ""
+"第三十条 除其他事项外，保证参加文化活动和利用个人创造和智力潜力的权利，而且尊"
+"重和支持残疾人的文化身份的权利。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1442]
@@ -2597,15 +2753,20 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[44]/text:list-item[0]/text:p[0]
-msgid "向社会心理残疾人士提供发展自我和为艺术、科学和其他文化工作做贡献的机会。"
+msgid ""
+"向社会心理残疾人士提供发展自我和为艺术、科学和其他文化工作做贡献的机会。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[44]/text:list-item[1]/text:p[0]
-msgid "确保文化产品、运动和娱乐机会不会歧视作为参与者或者观众的社会心理残疾人士的参与。"
+msgid ""
+"确保文化产品、运动和娱乐机会不会歧视作为参与者或者观众的社会心理残疾人士的参"
+"与。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[44]/text:list-item[2]/text:p[0]
-msgid "保护社会心理残疾人士实践他们自己天生的、传统的和/或少数群体文化的权利，并且发展文化方面有竞争力和可接受的项目和服务。"
+msgid ""
+"保护社会心理残疾人士实践他们自己天生的、传统的和/或少数群体文化的权利，并且发"
+"展文化方面有竞争力和可接受的项目和服务。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1466]
@@ -2644,7 +2805,9 @@ msgid ""
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[45]/text:list-item[0]/text:p[0]
-msgid "要求政府在遵行保密防护措施和关于收集和使用统计数据的国际规范下，收集信息（包括统计和研究数据），使他们能够制定政策以落实公约。"
+msgid ""
+"要求政府在遵行保密防护措施和关于收集和使用统计数据的国际规范下，收集信息（包"
+"括统计和研究数据），使他们能够制定政策以落实公约。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1475]
@@ -2654,14 +2817,17 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1477]
 msgid ""
-"确保使用者/幸存者组织投入到下列事项的决定中：收集了什么信息、信息如何使用、和它是否基于残疾的类型被分解（例如：关于残疾人就业率的统计数据是否被进一步划分"
-"，去通过与智力残疾人士、盲人、聋人和盲聋人、身体残疾人士等等比较来说明社会心理残疾人的情况）"
+"确保使用者/幸存者组织投入到下列事项的决定中：收集了什么信息、信息如何使用、和"
+"它是否基于残疾的类型被分解（例如：关于残疾人就业率的统计数据是否被进一步划"
+"分，去通过与智力残疾人士、盲人、聋人和盲聋人、身体残疾人士等等比较来说明社会"
+"心理残疾人的情况）"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1479]
 msgid ""
-"第32条 要求政府促进和参加国际合作来实现公约的目标，包括与残疾人组织进行合作完成的活动，这是通过采取像这样的把残疾人包括在国际发展项目中、促进能力建设、"
-"研究合作以及技术和经济援助之中的措施来实现。"
+"第32条 要求政府促进和参加国际合作来实现公约的目标，包括与残疾人组织进行合作完"
+"成的活动，这是通过采取像这样的把残疾人包括在国际发展项目中、促进能力建设、研"
+"究合作以及技术和经济援助之中的措施来实现。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1499]
@@ -2698,7 +2864,9 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[46]/text:list-item[0]/text:p[0]
-msgid "确保国际发展项目遵从公约的字面意义和精神，例如，他们支持落实公约阐述的残疾人的人权的活动，和他们不支持违反公约或歧视残疾人的活动。"
+msgid ""
+"确保国际发展项目遵从公约的字面意义和精神，例如，他们支持落实公约阐述的残疾人"
+"的人权的活动，和他们不支持违反公约或歧视残疾人的活动。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[46]/text:list-item[1]/text:p[0]
@@ -2706,7 +2874,9 @@ msgid "根据由使用者/幸存者组织确认的需求，支持他们的能力
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[46]/text:list-item[2]/text:p[0]
-msgid "确保使用者/幸存者组织在国际、地区、国家和本地层面都在国际合作活动中拥有协商的角色，并且能够作为伙伴作出贡献。这可能要求财务支援和能力建设。"
+msgid ""
+"确保使用者/幸存者组织在国际、地区、国家和本地层面都在国际合作活动中拥有协商的"
+"角色，并且能够作为伙伴作出贡献。这可能要求财务支援和能力建设。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1536]
@@ -2753,8 +2923,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[47]/text:list-item[0]/text:p[0]
 msgid ""
-"要求政府在国家的层面，为实施公约和监管公约，设立独立机制。监督功能可以由一个国家人权机构或者一个满足国家人权机构要求的独立机制来完成，特别是独立于政治机关"
-"。残疾人组织应当获邀并充分参与监测进程。"
+"要求政府在国家的层面，为实施公约和监管公约，设立独立机制。监督功能可以由一个"
+"国家人权机构或者一个满足国家人权机构要求的独立机制来完成，特别是独立于政治机"
+"关。残疾人组织应当获邀并充分参与监测进程。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1546]
@@ -2764,8 +2935,10 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[48]/text:list-item[1]/text:p[0]
 msgid ""
-"国家对人权条约的监督是一项新特点，但是许多国家拥有各种各样权利的国家人权机构。一个监督机制的建立，或者指定一个现存的人权机构执行监督功能，必须通过与使用者"
-"/幸存者组织进行商议来完成 ，并且为使用者/幸存者组织提供一个持续的角色以促使他们有助于该项工作。"
+"国家对人权条约的监督是一项新特点，但是许多国家拥有各种各样权利的国家人权机"
+"构。一个监督机制的建立，或者指定一个现存的人权机构执行监督功能，必须通过与使"
+"用者/幸存者组织进行商议来完成 ，并且为使用者/幸存者组织提供一个持续的角色以促"
+"使他们有助于该项工作。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[48]/text:list-item[2]/text:p[0]
@@ -2820,8 +2993,10 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[49]/text:list-item[0]/text:p[0]
 msgid ""
-"至第39条 公约的可选协议书应付监督公约的国际专家委员会的创建和责任。政府被鼓励提名残疾人专家在委员会服务。政府必须向委员会报告和在准备这些报告时与残疾人"
-"组织商议，残疾人组织也可以直接与委员会沟通来告知委员会关于他们国家的情况。如果政府批准可选协议书，人权受到侵犯的残疾人可以向委员会投诉。如果国家批准可选协"
+"至第39条 公约的可选协议书应付监督公约的国际专家委员会的创建和责任。政府被鼓励"
+"提名残疾人专家在委员会服务。政府必须向委员会报告和在准备这些报告时与残疾人组"
+"织商议，残疾人组织也可以直接与委员会沟通来告知委员会关于他们国家的情况。如果"
+"政府批准可选协议书，人权受到侵犯的残疾人可以向委员会投诉。如果国家批准可选协"
 "议书，委员会也有调查“严重的和有系统的”侵犯人权的权利，包括通过对国家的访问，"
 msgstr ""
 
@@ -2831,7 +3006,9 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1574]
-msgid "1）为向监察委员会提名候选人建立一个开放和透明的程序，寻找合资格的残疾人和受残疾人组织支持的候选人。"
+msgid ""
+"1）为向监察委员会提名候选人建立一个开放和透明的程序，寻找合资格的残疾人和受残"
+"疾人组织支持的候选人。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1575]
@@ -2876,7 +3053,9 @@ msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[50]/text:list-item[0]/text:p[0]
 msgid ""
-"为缔约国会议做准备，使其考虑与实行公约相关的事情。这是人权公约的一个新特点，并且会促进政府和民间社会之间的定期信息交流和能力建立，民间社会包括残疾人组织。"
+"为缔约国会议做准备，使其考虑与实行公约相关的事情。这是人权公约的一个新特点，"
+"并且会促进政府和民间社会之间的定期信息交流和能力建立，民间社会包括残疾人组"
+"织。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1600]
@@ -2885,7 +3064,9 @@ msgid "需要做什么："
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[51]/text:list-item[0]/text:p[0]
-msgid "当缔约国会议考虑与实行公约相关的事情时，支持残疾人组织积极参与到会议中，例如，做贡献于设立议事日程，提交演示，和参加专家小组和讨论。"
+msgid ""
+"当缔约国会议考虑与实行公约相关的事情时，支持残疾人组织积极参与到会议中，例"
+"如，做贡献于设立议事日程，提交演示，和参加专家小组和讨论。"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:list[51]/text:list-item[1]/text:p[0]
@@ -2900,8 +3081,8 @@ msgstr ""
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1609]
 msgid ""
 "The full text of the Convention on the Rights of Persons with Disabilities "
-"is available in several languages on the UN website at "
-"http://www.un.org/disabilities/default.asp?navid=12&pid=150"
+"is available in several languages on the UN website at http://www.un.org/"
+"disabilities/default.asp?navid=12&pid=150"
 msgstr ""
 
 #: office:document-content[0]/office:body[0]/office:text[0]/text:p[1611]

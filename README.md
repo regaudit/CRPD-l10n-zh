@@ -1,6 +1,9 @@
 # CRPD-l10n-zh
 身心障礙者權利及相關資源中文化 －Chinese localization for the resources on the rights of persons with disabilities.
 
+## Content
+[目录及翻译进度](https://mdrights.github.io/beyond-psychiatry/crpd-l10n/)
+
 ## How to
 1. Fork本項目，編輯po文件：
   - 將英文條目下面對應的空位（msgstr那一行）填入中文翻譯即可。
