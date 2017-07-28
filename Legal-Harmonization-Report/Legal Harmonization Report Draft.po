@@ -1206,7 +1206,7 @@ msgstr ""
 
 #: Legal+Harmonization+Report+Draft.txt%3A468
 msgid "Strategies for Legal Harmonization in the Asia region"
-msgstr "亚洲地区法律融合化的策略"
+msgstr "亚洲地区法律一体化的策略"
 
 #: Legal+Harmonization+Report+Draft.txt%3A470
 msgid ""
