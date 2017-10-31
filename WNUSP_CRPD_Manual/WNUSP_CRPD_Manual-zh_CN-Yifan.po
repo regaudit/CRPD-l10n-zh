@@ -486,17 +486,17 @@ msgid ""
 "to real change in the lives of users and survivors of psychiatry "
 "everywhere.  "
 msgstr "我们在实施公约时面临挑战，因为到现在为止，还有没有政府遵从与精神医学"
-"使用者和幸存者有关的要求。许多政府会与公约里的责任辩驳，并且为
-保持他们的监护人制度和精神为卫生法律战斗，来继续精神病拘留和暴力，
-并且推进一个“基于不足”的精神社会学残障的观点，该观点要求进行医药模
-式的“治疗”。他们会设法寻找漏洞或者为了解释该观点去为他们宁愿不遵从
-的责任做出例外。然而，我们在创造公约的过程中有过许多胜利，并且有鼓
-舞人心的迹象显示我们的信息已经被一些政府听到，并且我们的在残障和人
-权社会团体的同盟将会继续在国际和国家的层面与我们并肩工作。我们面临
-的挑战并不只是对我们的情况是独一无二的，而且任何主张我们被国际条约
-承认的人权的被剥夺自由权的群组的人也同样面临这样的挑战。我们的行动
-已经通过条约过程成熟了许多，并且会继续迎接挑战去突破以在任何地方实
-现精神病学使用者和幸存者的生活的真正改变。"
+"使用者和幸存者有关的要求。许多政府会与公约里的责任辩驳，并且为"
+"保留他们的监护人制度和精神卫生法律战斗，来继续精神病拘留和暴力，"
+"并且推进一个“基于缺陷”的社会心理残障的观点，该观点要求进行医学模"
+"式的“治疗”。他们会设法寻找漏洞，或者刻意解读出例外的情况以便"
+"可以不履行义务。然而，我们在创造公约的过程中有过许多胜利，并且有鼓"
+"舞人心的迹象显示我们的主张已经被一些政府听到，并且我们在残障和人"
+"权社会团体的同盟将会继续在国际和国家的层面与我们并肩工作。我们面临"
+"的挑战并不只是我们独有的，而且任何主张国际条约所"
+"承认的人权的被剥夺自由权的社群也同样面临这样的挑战。我们的行动"
+"已经在条约形成过程中成熟了许多，并且会继续迎接挑战，让"
+"在每个地方的精神病学使用者和幸存者的生活有真正改变。"
 
 #: WNUSP_CRPD_Manual.txt:140
 msgctxt "WNUSP_CRPD_Manual.txt:140"
@@ -509,11 +509,11 @@ msgstr "文章导读"
 
 #: WNUSP_CRPD_Manual.txt:144
 msgid "1. HIGHLIGHTS OF THE CONVENTION"
-msgstr "1、 公约最重要的部分"
+msgstr "1. 公约的重点部分"
 
 #: WNUSP_CRPD_Manual.txt:146
 msgid "Q: What is the Disability Convention?"
-msgstr "Q：残障公约是什么？"
+msgstr "Q：残障权利公约是什么？"
 
 #: WNUSP_CRPD_Manual.txt:148
 msgid ""
@@ -522,7 +522,8 @@ msgid ""
 "a multilateral treaty, a treaty among many nations. It declares specific "
 "obligations of governments to respect and enforce the human rights of "
 "persons with disabilities. "
-msgstr "A、公约是条约的另一个称谓，是国家之间的有约束力的协议。《残>疾人权利公约》是一个多边   的条约，一项多个国家之间条约。它宣告政>府有特定的责任去尊重和加强残障人士的人权。"
+msgstr "A: 公约是条约的另一个称谓，是国家之间的有约束力的协议。"
+"《残疾人权利公约》是一个多边的条约，一项多个国家之间条约。它宣告政府有特定的责任去尊重和加强残障人士的人权。"
 
 #: WNUSP_CRPD_Manual.txt:150
 msgid "Q: Does the Convention cover users and survivors of psychiatry?"
@@ -535,9 +536,9 @@ msgid ""
 "with disabilities. This article in its definition of persons with "
 "disabilities includes those who have mental impairments. This formulation "
 "clearly includes users and survivors of psychiatry."
-msgstr "A：《残障人权利公约》的第一条声明公约的目的是保护和促进所有
-残障人的所有人权和基本自由。本条款关于残障人的定义包括精障人士。这
-个表述清楚包括精神医学使用者和幸存者。"
+msgstr "A：《残障人权利公约》的第一条声明公约的目的是保护和促进所有"
+"残障人的所有人权和基本自由。本条款关于残障人的定义包括有精神损伤的人士。这"
+"个表述清楚包括精神医学使用者和幸存者。"
 
 #: WNUSP_CRPD_Manual.txt:154
 msgid ""
@@ -545,8 +546,8 @@ msgid ""
 "and fundamental freedoms by all persons with disabilities, including those "
 "who have mental impairments.  Users and survivors of psychiatry are covered "
 "by this language."
-msgstr "A：公约的目的是为了保护和促进所有残障人士，包括那些精障人士的
-所有人权和基本自由。这个语言叙述涵盖了精神医学使用者和幸存者。"
+msgstr "A：公约的目的是为了保护和促进所有残障人士，包括那些精障人士的"
+"所有人权和基本自由。这个说法涵盖了精神医学使用者和幸存者。"
 
 #: WNUSP_CRPD_Manual.txt:156
 msgid "Q: How does the Convention deal with the issue of legal capacity?"
@@ -562,12 +563,12 @@ msgid ""
 "our legal capacity. Thus support is no longer inflicted upon us whether we "
 "want I it or not, rather it is assistance which has to be made available if "
 "we wish to use it.  "
-msgstr "A：法律能力这个概念曾经被用作否认人格和剥夺使用者和幸存者管>理我们自己的生活的资格。公约的第12条已经通过向所有残障人赋予人格和
-通过承认我们拥有管理我们生活的法律能力，来废除这些对残障人权利的剥
-夺。同样如果我们要求，我们可以寻求支持来行使我们的法律能力。这样，
-无论我们是否需要，支持就不再是强加于我们的，而是当我们希望行使法律
-能力时的必须提供给我们的帮助。
-"
+msgstr "A：法律能力这个概念曾经被用作否认人格和剥夺使用者和幸存者"
+"管理我们自己的生活的资格。公约的第12条已经向所有残障人赋予人格和"
+"承认我们拥有管理我们生活的法律能力，并消除这些对残障人权利的剥"
+"夺。同样如果我们要求，我们可以寻求支持来行使我们的法律能力。这样，"
+"无论我们是否需要，支持都不再是强加于我们的，而是当我们希望行使法律"
+"能力的时候，必须提供给我们的协助。"
 
 #: WNUSP_CRPD_Manual.txt:160
 msgid "Q: Does the Convention prohibit forced drugging and electroshock?"
@@ -590,20 +591,21 @@ msgid ""
 "punishment, which includes medical or scientific experimentation without "
 "consent.  The cumulative effect of these provisions is to oust forced "
 "psychiatry.   "
-msgstr "A：第17条授予所有残障人赋有在与其他人平等基础上的、获得他人尊重他>们的身心完整性的权利。这项权利保护那些没有残障的人士免于不受欢迎的
-治疗、强制性的监禁或者任何其他不受欢迎的对他们身心的侵害。第17条，
-通过它对平等性的非歧视的保证，也使我们可以获得这些权利。通过第25条
-强制卫生保健专业人士只有基于自由和知情同意下提供治疗的事实——这项保
-证更进一步得到加强。自由和知情同意只能够由本人给出，并且不是由家人
-、法院或其他人给出。（这遵从来自法律能力的保证）。另外，第15条公约
-规定保护残障人免于酷刑和残忍、不人道或者有辱人格的待遇或者惩罚的权
-利，这些没有被同意的待遇和惩罚包括医疗和科学试验。这些条款的累积效
-果废除强制精神病医疗。"
+msgstr "A：第17条授予所有残障人赋有在与其他人平等基础上的、获得他人"
+"尊重他们的身心完整性的权利。这项权利保护那些没有残障的人士免于不受欢迎的"
+"治疗、强制性的监禁或者任何其他不受欢迎的对他们身心的侵害。第17条，"
+"通过它对平等性和非歧视的保证，也使我们可以获得这些权利。第25条"
+"强制卫生保健专业人士只有基于自由和知情同意下才能提供治疗——这已经是个事实，令这保"
+"证更进一步得到加强。自由和知情同意只能够由本人给出，不是由家人"
+"、法院或其他人给出。（这是以对残障人士法律能力的保证为前提）。另外，公约第15条"
+"规定保护残障人免于酷刑和残忍、不人道或者有辱人格的待遇或者惩罚的权"
+"利，这些没有被同意的待遇和惩罚包括医疗和科学试验。这些条款的累积效"
+"果就是要废除强制精神医疗。"
 
 #: WNUSP_CRPD_Manual.txt:164
 msgid ""
 "Q: Does the Convention allow forced institutionalization/ hospitalization? "
-msgstr "问：公约允许强制性体制化/住院吗？"
+msgstr "问：公约允许强制住院/关紧闭吗？"
 
 #: WNUSP_CRPD_Manual.txt:166
 msgid ""
@@ -615,8 +617,10 @@ msgid ""
 "directly and not have a guardian or family member substitute their decision)"
 ".  Forced institutionalization or hospitalization on the basis of disability "
 "is therefore prohibited.  "
-msgstr "答：残障人拥有在与其他人平等的基础上的自由权利，而且基于残障>的对自由的剥夺是没有正当理由的。并且在与他人平等的基础上，残障人士
-也有居住在社区的权利，并且选择住在哪里和与谁同住(法律能力确保每个>人能够直接地行使此项权利并且不用由监护人或者家人代替他们的决定)。>因此基于残障的强制性的制度化或者住院是被禁止的。"
+msgstr "答：残障人拥有在与其他人平等基础上的自由权利，而且基于残障的对自由的剥夺是没有正当理由的。"
+"并且在与他人平等的基础上，残障人士也有居住在社区的权利，并且选择住在哪里和与谁同住 "
+"(法律能力确保每个人能够直接地行使此项权利并且不用由监护人或者家人代替他们的决定)。"
+"因此基于残障的强制性机构化或者住院是被禁止的。"
 
 #: WNUSP_CRPD_Manual.txt:168
 msgid ""
@@ -629,11 +633,11 @@ msgid ""
 "People with disabilities who violate the rights of others have the right to "
 "be treated on an equal basis with others by the police and penal law "
 "systems, including the provision of reasonable accommodation.  "
-msgstr "答：在与他人平等基础上的，侵犯他人权利的残障人有权利受到警察和刑法系统的待遇，包括合理便利。"
+msgstr "答：侵犯他人权利的残障人有权利受到警察和刑法系统的在与他人平等基础上的待遇，包括提供合理便利。"
 
 #: WNUSP_CRPD_Manual.txt:172
 msgid "Q: How will the Convention be enforced?"
-msgstr "问：公约将会如何被执行？"
+msgstr "问：公约将会如何执行？"
 
 #: WNUSP_CRPD_Manual.txt:174
 msgid ""
@@ -646,11 +650,10 @@ msgid ""
 "powers.  Along with other persons with disabilities, users and survivors of "
 "psychiatry have the right to participate in government processes to "
 "implement the Convention (e.g. law reform and policymaking)."
-msgstr "答：将会设立一个国际监察委员会，来接受政府报告和作出建议；只有在
-政府已经批准附于公约的可选协议的情况下，该委员会也可以接受来自权利
-受到侵犯的个体的投诉。在政府的执行公约中将会有国家焦点，并且也有一
-个国家独立力量的监察机制。和其他残障人一道，精神医学使用者和幸存
-者有权利参与到政府执行公约的进程中来（例如：法律改革和政策制定）。"
+msgstr "答：将会设立一个国际监察委员会，来接受政府报告和做出建议；"
+"该委员会也可以接受来自权利受到侵犯的个体的投诉，但只有在政府已经签署附于公约的可选协议的情况下才接受。"
+"每个国家政府在执行公约时都会有各个国家的焦点，并且也将有一个国家层面的独立的监察机制。"
+和其他残障人一道，精神医学使用者和幸存者有权利参与到政府执行公约的进程中来（例如：法律改革和政策制定）。"
 
 #: WNUSP_CRPD_Manual.txt:176
 msgid "2. GUIDE TO TERMINOLOGY, DEFINITIONS AND DESCRIPTIONS "
