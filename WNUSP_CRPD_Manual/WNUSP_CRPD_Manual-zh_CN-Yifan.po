@@ -653,11 +653,11 @@ msgid ""
 msgstr "答：将会设立一个国际监察委员会，来接受政府报告和做出建议；"
 "该委员会也可以接受来自权利受到侵犯的个体的投诉，但只有在政府已经签署附于公约的可选协议的情况下才接受。"
 "每个国家政府在执行公约时都会有各个国家的焦点，并且也将有一个国家层面的独立的监察机制。"
-和其他残障人一道，精神医学使用者和幸存者有权利参与到政府执行公约的进程中来（例如：法律改革和政策制定）。"
+"和其他残障人一道，精神医学使用者和幸存者有权利参与到政府执行公约的进程中来（例如：法律改革和政策制定）。"
 
 #: WNUSP_CRPD_Manual.txt:176
 msgid "2. GUIDE TO TERMINOLOGY, DEFINITIONS AND DESCRIPTIONS "
-msgstr "2、 术语、定义和描述的导读"
+msgstr "2. 术语、定义和描述导读"
 
 #: WNUSP_CRPD_Manual.txt:178
 msgid ""
@@ -673,12 +673,13 @@ msgid ""
 "or sensory impairments which in interaction with various barriers may hinder "
 "their full and effective participation in society on an equal basis with "
 "others.”"
-msgstr "在协商过程中，要参与各方在残障（包含所有残障人和排除没有残障
-的人）的定义达成一致是不可能的。在小段的公约的序言中承认“残障是一>个不断演变的概念”。公约第一条声明：“现有的公约的目标是促进、保护和
-确保所有残障人充分和平等享有所有人权和基本自由，并且提升对他们固有
-的尊严的尊重。残障人包括那些有长期身体、精神、智力或者感官的损伤而
-导致他们在与各种障碍互动时可能会阻碍（他们在与其他人平等基础上）充
-分和有效参与到社会活动的人士。"
+msgstr "在协商过程中，要参与各方在残障的定义（即所有人都是残障人，没有人不是残障人）"
+"达成一致是不可能的。公约的序言承认“残障是一个不断演变的概念”。"
+"公约第一条说：“现有的公约的目标是促进、保护和"
+"确保所有残障人充分和平等享有所有人权和基本自由，并且提升对他们固有"
+"的尊严的尊重。残障人包括那些有长期身体、精神、智力或者感官的损伤而"
+"导致他们在与各种障碍互动时可能会阻碍（在与其他人平等基础上）充"
+"分和有效参与到社会活动的人士。"
 
 #: WNUSP_CRPD_Manual.txt:180
 msgid ""
@@ -692,8 +693,12 @@ msgid ""
 "component refers to societal and cultural limits for behavior that interact "
 "with those psychological differences/madness as well as the stigma that the "
 "society attaches to labeling us as disabled. "
-msgstr "在协商的过程中，WNUSP发展了语言来提到从个人病理学的医学模式移开的>精障人士。我们描述自己为社会心理残障人士。“社会心理”一词指我们的残
-疾在心理和社会/文化因素之间的互相影响。心理因素指思考和处理我们的>经验的方法和我们对周围世界的认知。社会/文化因素指对于与那些心理差>异/精神错乱进行互动的行为的社会和文化的限制，以及社会标签我们残障>的污名化。"
+msgstr "在协商的过程中，WNUSP发展了一套话语来把「精神残疾人」（这个词）从医学"
+"模式的个人病理学中拽了出来。我们改描述自己为「社会心理残障人士」。「社会心理」"
+"一词指我们的残障在心理和社会/文化因素之间的互相影响。心理因素指思考和处理我们"
+"的经验的方法，和我们对周围世界的认知。社会/文化因素指社会和文化对那些心理差异"
+"/疯癫进行互动的行为的限制，以及社会把我们标签为残障的污名。"
+
 
 #: WNUSP_CRPD_Manual.txt:182
 msgid ""
@@ -707,11 +712,13 @@ msgid ""
 "mental health problems and/or are using or surviving, or have used or "
 "survived psychiatry/mental health services, as well as those of us who are "
 "perceived by others as having a mental disability/impairment.  "
-msgstr "然而，在使用术语“社会心理的”方面，我们没有将我们自己与社会心理康复
-运动联系起来的意图。“社会心理残障”这一术语在世界上大多数国家还没有
-被了解，而因此，在协商的结尾，我们同意在公约文本中使用更加普遍被了
-解的术语“精神伤残”。精神伤残人士包括下列的精神医学使用者和幸存者
-——他们经历和已经经历过亲身体验的精神错乱和/或者精神健康问题的以及/或者是正在使用或幸存，或已经使用或者幸存于精神病科/精神康复服务的>人士，以及那些我们当中被其他人认为有精神残障/伤残的人士。"
+msgstr "然而，在使用术语“社会心理的”这个词时，我们没有将我们自己与社会心理康复"
+"运动联系起来的意图。“社会心理残障”这一术语在世界上大多数国家还没有"
+"被了解。而因此，在协商的结尾，我们同意在公约文本中使用更加普遍被了"
+"解的术语“精神损伤”。有精神损伤的人士包括下列的精神医学使用者和幸存者"
+"——他们经历和已经经历过亲身体验的精神错乱和/或精神健康问题的，以及/或者是正在"
+"使用或幸存，或已经使用或者幸存于精神病科/精神康复服务的人士，以及那些我们当中"
+"被其他人认为有精神残障/损伤的人士。"
 
 #: WNUSP_CRPD_Manual.txt:184
 msgid ""
@@ -721,13 +728,13 @@ msgid ""
 "that there may be difficulties in translating the word “psychosocial” into "
 "languages other than English.  We urge members of WNUSP to confer with each "
 "other and use their best judgment in making the translation.      "
-msgstr "我们宁愿使用术语“社会心理残障”，并且在我们为实施公约进行游说时愿意
-把它引入词汇库，而不是使用术语“精神残障”。在把“社会心理”一词翻译成
-除英语以外的语言时，我们承认可能存在困难。我们促使WNUSP成员相互对>照和在做翻译时使用他们最佳的判断。"
+msgstr "我们宁愿使用术语“社会心理残障”，并且在我们为实施公约进行游说时愿意"
+"把它引入词汇库，而不是使用术语“精神损伤”。在把“社会心理”一词翻译成"
+"除英语以外的语言时，我们承认可能存在困难。我们促使WNUSP成员相互对照，并在做翻译时使用他们最佳的判断。"
 
 #: WNUSP_CRPD_Manual.txt:186
 msgid "3. THE PRINCIPLES OF THE CONVENTION"
-msgstr "3、 公约的原则"
+msgstr "3. 公约中的原则"
 
 #: WNUSP_CRPD_Manual.txt:188
 msgid ""
@@ -738,8 +745,7 @@ msgstr "公约的一般原则在以下的第三条清晰阐述："
 msgid ""
 "(a) Respect for inherent dignity, individual autonomy including the freedom "
 "to make one’s own choices, and independence of persons;"
-msgstr "（a）对固有的的尊严的尊重、个人自主权包括做自己决
-定的自由，和残障人的独立；"
+msgstr "（a）对固有的的尊严的尊重、个人自主包括做自己决定的自由，和作为人的独立；"
 
 #: WNUSP_CRPD_Manual.txt:192
 msgid "(b) Non-discrimination;"
@@ -747,23 +753,21 @@ msgstr "（b）非歧视；"
 
 #: WNUSP_CRPD_Manual.txt:194
 msgid "(c) Full and effective participation and inclusion in society;"
-msgstr "（c）充分和有效的参与和融入到社会；"
+msgstr "（c）充分和有效地参与和融入到社会；"
 
 #: WNUSP_CRPD_Manual.txt:196
 msgid ""
 "(d) Respect for difference and acceptance of persons with disabilities as "
 "part of human diversity and humanity;"
-msgstr "（d）对差异的尊重和对残障人的接受，以作为人类多元化和
-人道主义的一部分；"
+msgstr "（d）对差异的尊重和对残障人的接受，作为人类多元化和人道主义的一部分；"
 
 #: WNUSP_CRPD_Manual.txt:198
 msgid "(e) Equality of opportunity;"
 msgstr "（e）机会的平等；"
 
-#, fuzzy
 #: WNUSP_CRPD_Manual.txt:200
 msgid "(f) Accessibility;"
-msgstr "（f）便利性；"
+msgstr "（f）无障碍/通用设计；"
 
 #: WNUSP_CRPD_Manual.txt:202
 msgid "(g) Equality between men and women;"
@@ -774,14 +778,13 @@ msgid ""
 "(h) Respect for the evolving capacities of children with disabilities and "
 "respect for the right of children with disabilities to preserve their "
 "identities."
-msgstr "（h）尊重演变中的残障儿童的能力，和尊重残障儿童的权利来保
-护他们的身份。"
+msgstr "（h）尊重残障儿童的不断发展的能力，和尊重残障儿童的权利来保护他们的身份。"
 
 #: WNUSP_CRPD_Manual.txt:206
 msgid ""
 "There are some important concepts in the preamble that do not reappear in "
 "the binding articles."
-msgstr "在序言中有一些重要的概念不会再在应履行的条款中出现。"
+msgstr "在序言中有一些重要的概念没有再在相对应的条款中出现。"
 
 #: WNUSP_CRPD_Manual.txt:208
 msgid "Preamble:"
@@ -793,8 +796,7 @@ msgid ""
 "results from the interaction between persons with impairments and "
 "attitudinal and environmental barriers that hinder their full participation "
 "in society on an equal basis with others."
-msgstr "（e）承认残障是一个演变的概念，残障是伤残者和阻碍他们在>与其他人平等的基础上充分地参与社会的各种态度和环境障碍相互作用所产
-生的结果，"
+msgstr "（e）承认残障是一个不断发展的概念，残障是有损伤的人和阻碍他们（在与其他人平等的基础上）充分地参与社会的各种态度和环境阻碍相互作用所产生的结果。"
 
 #: WNUSP_CRPD_Manual.txt:212
 msgid "(i) recognizes the diversity of persons with disabilities"
@@ -804,47 +806,45 @@ msgstr "（i）承认残障人的多元性"
 msgid ""
 "(j) specifically includes those persons with disabilities who require more "
 "intensive support"
-msgstr "（j）特定地包括那些需要更加深入细致的支持的残障人"
+msgstr "（j）尤其要包括那些需要更加深入细致地支持的残障人"
 
 #: WNUSP_CRPD_Manual.txt:216
 msgid ""
 "(p) concerned about multiple forms of discrimination and specifically "
 "mentions discrimination on the basis of indigenous origin"
-msgstr "（p）关心多种形式的歧视和特定地提到基于固有来源的歧视"
+msgstr "（p）关心多种形式的歧视和特别提到基于固有来源的歧视"
 
 #: WNUSP_CRPD_Manual.txt:218
 msgid ""
 "(t) highlights that the majority of persons with disabilities live in "
 "poverty and recognizes the critical need to address the negative impact of "
 "poverty on persons with disabilities."
-msgstr "（t）突出强调大多数残障人生活在贫困中，并且承认对于强调贫困对
-于残障人的负面影响的极重要的需要"
+msgstr "（t）强调大多数残障人生活在贫困中，并且承认非常有必要着重表达贫困对于残障人的负面影响。"
 
 #: WNUSP_CRPD_Manual.txt:220
 msgid ""
 "The application of these principles will radically alter the lives of "
 "persons with psychosocial disabilities.  Some of the consequences will be:"
-msgstr "这些原则的应用将会彻底地改变社会心理残障人士的生活。
-      将会有一些结果："
+msgstr "这些原则的应用将会彻底地改变社会心理残障人士的生活。其中一些效果会是这样："
 
 #: WNUSP_CRPD_Manual.txt:222
 msgid ""
 "- the abolition of mental health commitment laws, guardianship, and the "
 "insanity defense"
-msgstr "- 精神健康收治法律、监护人制度以精神病防御的及废除"
+msgstr "- 废除精神健康收治法律、监护人制度以及对疯癫行为的防御"
 
 #: WNUSP_CRPD_Manual.txt:224
 msgid "- the creation of a wide range of healing support, and"
-msgstr "- 广泛的康复支持的创建，以及"
+msgstr "- 广泛的疗愈支持的创建，以及"
 
 #: WNUSP_CRPD_Manual.txt:226
 msgid "- the liberation of our people from institutions."
-msgstr "- 我们残障人士从医疗等机构的释放"
+msgstr "- 把我们残障人士从封闭医疗机构释放出来"
 
 #: WNUSP_CRPD_Manual.txt:228
 msgid ""
 "4.  SUMMARY OF THE PROVISIONS IN THE CONVENTION AND GUIDE TO IMPLEMENTATION"
-msgstr "4、 公约条款摘要和执行指南"
+msgstr "4. 公约条款摘要和执行指南"
 
 #: WNUSP_CRPD_Manual.txt:230
 msgid ""
@@ -854,14 +854,13 @@ msgid ""
 "included (people with long-term physical, mental, sensory and intellectual "
 "impairments which in combination with various barriers may hinder "
 "participation in society).  "
-msgstr "第一条：阐述公约的目的，保证所有残障人平等享有所有人权和基本
-自由，并且说出被包含在内的某几组残障人（有长期身体、精神、感官和智
-力伤残的人士，也列出了与伤残相结合的各种各样的可能阻碍伤残人士参与
-社会的障碍）"
+msgstr "第一条：阐述公约的目的，保证所有残障人平等享有所有人权和基本"
+"自由，并且点出了某些特定残障组别须被包含进来（有长期身体、精神、感官和智"
+"力伤残的人士，及与伤残相结合的各种可能都会阻碍他们参与社会）。"
 
 #: WNUSP_CRPD_Manual.txt:232
 msgid "Article 2 sets out definitions including definitions of "
-msgstr "第二条：阐述定义包括以下定义："
+msgstr "第二条：设置定义，包括："
 
 #: WNUSP_CRPD_Manual.txt:234
 msgid ""
@@ -869,32 +868,32 @@ msgid ""
 "basis of disability that has the purpose or effect of limiting human rights "
 "or fundamental freedoms, and discrimination includes the denial of "
 "reasonable accommodation) "
-msgstr "“基于残障的歧视”（有限制人权和基本自由的目的或
-影响的基于残障的区分，和包括对合理便利的拒绝）"
+msgstr "\t•  “基于残障的歧视”（即有因为残障而限制人权和基本自由的目的或
+影响的区别对待，和对合理便利的拒绝也是歧视）"
 
 #: WNUSP_CRPD_Manual.txt:236
 msgid ""
 "\t•   “reasonable accommodation” (adjustments needed in a particular case to "
 "ensure equal enjoyment and exercise of human rights and fundamental freedoms)"
-msgstr "“合理便利”（对于确保平等享用和行使人权和基本自
-由，在特定的案例中需要的调整）"
+msgstr "\t•   “合理便利”（即针对特定个体的为了确保他/她能平等获得/行使人权和基本自由而做出的必要调整）"
 
 #: WNUSP_CRPD_Manual.txt:238
 msgid ""
 "Article 3 sets out principles of the Convention, including:\n"
 "    \n"
 "\t•   Individual autonomy, including the freedom to make one’s own choices"
-msgstr "第三条：阐述公约的原则，包括："
-"个人自主权，包括自主做决定的自由"
+msgstr "第三条：设置公约的原则，包括：\n"
+"    \n"
+"\t•   个人自主，包括自己做决定的自由"
 
 #: WNUSP_CRPD_Manual.txt:242
 msgid "•   Respect for disability as part of human diversity"
-msgstr "对残障尊重，作为人类多元化得一部分"
+msgstr "•   尊重残障，这是人类多元化的一部分"
 
 #: WNUSP_CRPD_Manual.txt:244
 msgid ""
 "•   Non-discrimination\n"
-msgstr "非歧视"
+msgstr "•   非歧视\n"
 
 msgid ""
 "Article 4 guarantees all human rights and fundamental freedoms to people "
@@ -903,9 +902,9 @@ msgid ""
 "provision in Article 4 obligates governments to consult closely with "
 "organizations of people with disabilities in implementing the convention and "
 "in all issues relating to people with disabilities."
-msgstr "第4条 ：没有歧视下保证残障人的所有人权和基本自由，并要求政府修改它
-们的法律和做法来遵从公约。第四条的一条重要条款要求政府有责任在执行
-公约和与残障人相关的问题中与残障人组织紧密商议。"
+msgstr "第4条 ：在没有歧视下保证残障人的所有人权和基本自由，并要求政府修改它"
+"们的法律和做法来遵从公约。第四条的一条重要条款要求政府有责任在执行"
+"公约和与残障人相关的问题中与残障人组织紧密商议。"
 
 #: WNUSP_CRPD_Manual.txt:248
 msgctxt "WNUSP_CRPD_Manual.txt:248"
