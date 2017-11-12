@@ -657,7 +657,11 @@ msgstr "答：将会设立一个国际监察委员会，来接受政府报告和
 
 #: WNUSP_CRPD_Manual.txt:176
 msgid "2. GUIDE TO TERMINOLOGY, DEFINITIONS AND DESCRIPTIONS "
+<<<<<<< HEAD
 msgstr "2. 术语、定义和描述导读"
+=======
+msgstr "2. 术语、定义和描述指引"
+>>>>>>> 0426800276bf5a113fc6cd0e28b84e1a57fb1ca6
 
 #: WNUSP_CRPD_Manual.txt:178
 msgid ""
@@ -868,8 +872,7 @@ msgid ""
 "basis of disability that has the purpose or effect of limiting human rights "
 "or fundamental freedoms, and discrimination includes the denial of "
 "reasonable accommodation) "
-msgstr "\t•  “基于残障的歧视”（即有因为残障而限制人权和基本自由的目的或
-影响的区别对待，和对合理便利的拒绝也是歧视）"
+msgstr "\t•  “基于残障的歧视”（即有因为残障而限制人权和基本自由的目的或影响的区别对待，和对合理便利的拒绝也是歧视）"
 
 #: WNUSP_CRPD_Manual.txt:236
 msgid ""
