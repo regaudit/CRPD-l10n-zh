@@ -60,7 +60,7 @@ msgstr "联合国《残障人权利公约》执行手册"
 
 #: WNUSP_CRPD_Manual.txt:46
 msgid "TABLE  OF CONTENTS"
-msgstr ""
+msgstr "目录"
 
 #: WNUSP_CRPD_Manual.txt:49
 msgid ""
@@ -919,7 +919,7 @@ msgid ""
 "Article 4 can be used by itself or in conjunction with other articles of the "
 "Convention to do away with laws, policies and practices that violate the "
 "human rights of people with disabilities."
-msgstr "第四条可以单独应用，也可以与公约中的其他条款联合应>用，来废除侵犯残障人的人权的法律、政策、和做法。"
+msgstr "第四条可以单独应用，也可以与公约中的其他条款联合应用，来废除侵犯残障人的人权的法律、政策、和做法。"
 
 #: WNUSP_CRPD_Manual.txt:252
 msgid ""
@@ -928,17 +928,17 @@ msgid ""
 "disability (such as exercising the right to vote or to marry), and mental "
 "health laws authorizing deprivation of liberty or psychiatric interventions "
 "without the free and informed consent of the person concerned."
-msgstr "1）所有歧视性法律必须废除。这包括监护人制度或者无行
-为能力法律，基于残障的剥夺残障人进行法律行为的条款（譬如行使投票权
-和结婚权）、以及批准没有自由和当事人知情同意下的对于自由的剥夺或者
-精神病学的干预。"
+msgstr "1）所有歧视性法律必须废除。这包括监护人制度或者“无行"
+"为能力”法律，基于残障理由的剥夺残障人行使法律行为资格的条款（譬如行使投票权"
+"和结婚权）、以及那些准许在没有当事人的自由知情同意下进行的对自由的剥夺或"
+"进行精神病学干预的精神卫生法律。"
 
 #: WNUSP_CRPD_Manual.txt:254
 msgid ""
 "2) Discrimination against people with psychosocial disabilities must be "
 "prohibited by law.  Psychosocial disability must be included on an equal "
 "basis with other types of disability in anti-discrimination legislation."
-msgstr "2）对于社会心理残障人士的歧视必须受到法律禁止。社会>心理残障必须在与其他类型残障平等的基础上包括在反歧视立法中。"
+msgstr "2）对于社会心理残障人士的歧视必须受到法律禁止。社会心理残障必须在与其他类型残障平等的基础上包括在反歧视立法中。"
 
 #: WNUSP_CRPD_Manual.txt:256
 msgid ""
@@ -946,27 +946,26 @@ msgid ""
 "discriminate based on disability or otherwise violate the Convention.  "
 "Governments must also take measures to eliminate discrimination by "
 "individuals, organizations or private enterprises. "
-msgstr "3）政府必须确保公共官员和机构不基于残障歧视或以另外>方式违反公约。政府也必须采取措施消除来自个人、组织或私人企业的歧视
-。"
+msgstr "3）政府必须确保公共部门官员和机构不基于残障歧视或以另外方式违反公约。政府也必须采取措施消除来自个人、组织或私人企业的歧视。"
 
 #: WNUSP_CRPD_Manual.txt:258
 msgid ""
 "4) Coercive and violent psychiatric interventions constitute discrimination "
 "and must be abolished.  "
-msgstr " 4）强制性的和暴力式的干预构成歧视，必须被废除。"
+msgstr " 4）强制性的和暴力式的精神病学干预构成歧视，必须被废除。"
 
 #: WNUSP_CRPD_Manual.txt:260
 msgid ""
 "5) Organizations of users and survivors of psychiatry have a right to be "
 "consulted on implementation of the Convention and all other matters of law "
 "and policy of concern to us.  "
-msgstr "5）精神医学使用者和幸存者的组织有权利被在公约的执>行和所有与我们相关的法律和政策的事务中被咨询。"
+msgstr "5）精神医学使用者和幸存者的组织有权利在公约（和其他任何所有与我们相关的法律和政策）的执行中得到咨询。"
 
 #: WNUSP_CRPD_Manual.txt:262
 msgid ""
 "6) Enforce the guarantees in the Convention and provide legal remedies for "
 "violations.  "
-msgstr "6）执行公约的保证并且为侵犯提供法律救济。"
+msgstr "6）确保执行公约并且为侵犯提供法律救济。"
 
 #: WNUSP_CRPD_Manual.txt:264
 msgid ""
