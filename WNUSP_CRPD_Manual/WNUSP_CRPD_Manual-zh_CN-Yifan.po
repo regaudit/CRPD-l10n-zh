@@ -938,7 +938,7 @@ msgid ""
 "2) Discrimination against people with psychosocial disabilities must be "
 "prohibited by law.  Psychosocial disability must be included on an equal "
 "basis with other types of disability in anti-discrimination legislation."
-msgstr "2）对于社会心理残障人士的歧视必须受到法律禁止。社会心理残障必须在与其他类型残障平等的基础上包括在反歧视立法中。"
+msgstr "2）对于社会心理残障人士的歧视必须受到法律禁止。社会心理残障必须（在与其他类型残障平等的基础上）被包含于反歧视立法中。"
 
 #: WNUSP_CRPD_Manual.txt:256
 msgid ""
@@ -965,15 +965,17 @@ msgstr "5）精神医学使用者和幸存者的组织有权利在公约（和�
 msgid ""
 "6) Enforce the guarantees in the Convention and provide legal remedies for "
 "violations.  "
-msgstr "6）确保执行公约并且为侵犯提供法律救济。"
+msgstr "6）确保执行公约并且为违犯公约提供法律救济。"
 
 #: WNUSP_CRPD_Manual.txt:264
 msgid ""
 "Article 5 guarantees equal protection and equal benefit of the law and "
 "prohibiting discrimination based on disability, and requires reasonable "
 "accommodation to be provided.\n"
+" \n"
 "What needs to be done:"
-msgstr "第5条  保证法律规定的平等保护和平等权益，并且禁止基于残障的歧视，>并要求提供合理便利。"
+msgstr "第5条  保证法律规定的平等保护和平等权益，并且禁止基于残障的歧视，并要求提供合理便利。\n"
+" \n"
 "需要做什么："
 
 #: WNUSP_CRPD_Manual.txt:268
@@ -990,8 +992,7 @@ msgid ""
 "where reasonable accommodation may be needed include interactions with "
 "government agencies (including police and penal law systems), education, "
 "work, and exercise of legal capacity (supported decision-making). "
-msgstr "2）确认何种合理便利对社会心理残障人士的意义，并确保提供该种>便利。需要合理便利的情况包括与政府机构（包括警察和刑法制度）、教育
-、工作和行使法律能力等的互动（支持性自主决策）。"
+msgstr "2）确认社会心理残障人士需要何种合理便利，并确保提供该种便利。需要合理便利的情况包括与政府机构（包括警察和刑罚系统）、教育、就业，并行使法律能力等的互动（支持性自主决策）。"
 
 #: WNUSP_CRPD_Manual.txt:272
 msgid ""
@@ -1001,21 +1002,22 @@ msgid ""
 " \n"
 "What needs to be done:"
 msgstr "第六条  确保残障妇女和残障女孩平等享有人权和基本自由，并且要求采取
-措施，确保妇女地位得到提高，得到充分发展，能力得到增强。"
+措施，确保妇女地位得到提高，得到充分发展，能力得到增强。\n"
+" \n"
 "需要做什么："
 
 #: WNUSP_CRPD_Manual.txt:276
 msgid ""
 "1) Protect women and girls from discrimination based on gender, disability "
 "or the interaction of gender and disability.  "
-msgstr "1) 保护妇女和女孩免于基于性别、残障或性别和残障的相互作用的歧视。"
+msgstr "1) 保护妇女和女孩免于基于性别、残障或基于性别和残障的相互作用的歧视。"
 
 #: WNUSP_CRPD_Manual.txt:278
 msgid ""
 "2) Identify areas of multiple or intersecting discrimination affecting women "
 "and girls who are users and survivors of psychiatry, and take appropriate "
 "action.  "
-msgstr "2) 确定影响身为精神医学使用者和幸存者的妇女和女孩的、多重或交叉>歧视的范围，并采取合适行动。"
+msgstr "2) 确定那些影响身为精神医学使用者和幸存者的妇女和女孩的、多重或交叉歧视的范围，并采取合适行动。"
 
 #: WNUSP_CRPD_Manual.txt:280
 msgid "For example:"
@@ -1029,17 +1031,17 @@ msgstr "基于性别的暴力和歧视是与精神病学暴力相互加强的，
 
 #: WNUSP_CRPD_Manual.txt:284
 msgid "•   Psychiatric labeling of the experience of rape survivors"
-msgstr "强奸幸存者的经历的精神病学标签化"
+msgstr "•   对强奸幸存者的经历的精神病学标签化"
 
 #: WNUSP_CRPD_Manual.txt:286
 msgid "•   Institutions confining women and men together, facilitating rape"
-msgstr "机构把妇女和男人监禁在一起，促进强奸"
+msgstr "•   机构把女性和男性监禁在一起，促成强奸"
 
 #: WNUSP_CRPD_Manual.txt:288
 msgid ""
 "•   Effect of electroshock and psychiatric drugs in destroying women’s "
 "ability to resist oppression"
-msgstr "电击和精神科药物对破坏妇女抵抗压迫的能力的影响"
+msgstr "•   电击和精神科药物对女性抵抗压迫的能力的损害性影响"
 
 #: WNUSP_CRPD_Manual.txt:290
 msgid ""
@@ -1049,9 +1051,9 @@ msgid ""
 "as similar obligations under the Convention to Eliminate Discrimination "
 "Against Women (CEDAW), should be addressed from a gender and disability "
 "perspective to include such matters.  "
-msgstr "这些侵犯不仅限于妇女，而是作为精神病学幸存者的妇女的经历的一>个决定性的部分；防止暴力（第16条）的责任和与文化的陈规旧习作斗争（
-第八条），和在《消除妇女歧视公约》中的类似的责任，应该通过从包括类
-似事情的性别和残障的角度来解决。"
+msgstr "•   这些侵犯不仅限于女性，而是作为精神医学幸存者的女性的经历的决定性的部分；"
+"防止暴力（第16条）的责任和与文化上的陈规旧习做斗争（第八条），和在《消除妇女歧视公约》中的类似的责任，"
+"应该通过从包括类似事情的性别和残障的角度来解决。"
 
 #: WNUSP_CRPD_Manual.txt:292
 msgid ""
@@ -1059,9 +1061,8 @@ msgid ""
 "children, including the right to express themselves freely and have their "
 "views taken into account on matters concerning them, and to have age- and "
 "disability-appropriate support in exercising these rights."
-msgstr "第7条 保证残障儿童拥有与其他儿童相同的权利，包括自由表达意见和在与
-他们相关的事情伤考虑他们意见的权利，并且在行使这些的权利时拥有与年
-龄和残障相适合的支持。"
+msgstr "第7条 保证残障儿童拥有与其他儿童相同的权利，包括自由表达意见和在与"
+"他们相关的事情上考虑他们意见的权利，并且在行使这些的权利时拥有与年龄和残障相适合的支持。"
 
 #: WNUSP_CRPD_Manual.txt:294
 msgctxt "WNUSP_CRPD_Manual.txt:294"
@@ -1082,16 +1083,16 @@ msgid ""
 "the basis of free and informed consent (see Article 25) in the context of "
 "their evolving capacities as defined in Article 12 of the United Nations "
 "Convention on the Rights of the Child.  "
-msgstr "2） 儿童不能遭受电击、精神外科手术、或者抗精神病。任何其他精神病学
-的干预必须包括儿童的参与，并尊重他们基于自由和知情同意（见第25条）
-的卫生保健的权利，这些内容体现在《联合国儿童权利公约》第12条的所定
-义的他们演变中的能力的文本当中。"
+msgstr "2） 儿童不能遭受电击、精神外科手术、或者神经镇痛药。任何其他精神病学"
+"的干预必须包括儿童的参与，并尊重他们基于自由和知情的同意（见第25条）"
+"的卫生保健的权利，这些内容体现在《联合国儿童权利公约》第12条的所定"
+"义的他们不断发展的能力的文本当中。"
 
 #: WNUSP_CRPD_Manual.txt:300
 msgid ""
 "3) Provide children with appropriate support to understand matters "
 "concerning them and to express their views."
-msgstr "3） 向儿童提供合适的理解关于他们的事物和表达他们观点的支持。"
+msgstr "3） 向儿童提供合适的支持以帮助他们理解关于他们的事物，并帮助他们表达他们的观点。"
 
 #: WNUSP_CRPD_Manual.txt:302
 msgid ""
@@ -1100,14 +1101,15 @@ msgid ""
 "and harmful practices, at all levels of society including families and "
 "communities.\n"
 "What needs to be done:"
-msgstr "第8条 提出提高意识和要求政府形成对残障人的权利的尊重，并且在包括家庭和社区的社会的各个层面与偏见和有害的做法作斗争，"
+msgstr "第8条 强调意识提升和要求政府形成对残障人权利的尊重，并且在包括家庭和社区等"
+"社会的各个层面与偏见和有害的做法做斗争。\n"
 "需要做什么："
 
 #: WNUSP_CRPD_Manual.txt:306
 msgid ""
 "1) Promote language and concepts that are positive and non-judgmental about "
 "states of mind and ways of expressing oneself.  "
-msgstr "1） 促进对于思想状态和表达方式的积极和非判断性的语言和概念。"
+msgstr "1） 促进对于思想和表达方式的积极和非判断性的语言和概念。"
 
 #: WNUSP_CRPD_Manual.txt:308
 msgid ""
@@ -1121,8 +1123,8 @@ msgid ""
 "resolution.  It is not acceptable to use psychiatric labeling, "
 "institutionalization, or interventions, or legal incapacitation, to resolve "
 "conflicts.  "
-msgstr "3） 发展和教育对于冲突解决的非暴力和非歧视性的方法。使用精神病标签
-化、制度化，或者干预、或者法律化的使丧失能力等解决冲突的方法是不被
+msgstr "3） 发展和教授对于冲突解决的非暴力和非歧视性的方法。使用精神病标签"
+"化、机构化，或者干预、或者是使人失去法律行为能力的立法等解决冲突的方法是不被
 接受的。"
 
 #: WNUSP_CRPD_Manual.txt:312
@@ -1131,8 +1133,7 @@ msgid ""
 "disabilities on an equal basis with others to the physical environment, "
 "transportation, information and communications, and other facilities and "
 "services provided to the general public. "
-msgstr "第9条  要求国家采取措施确保残障人士在与其他人平等的基础上，无障碍地获得物质环境、使用交通工具、利用信息和通讯，和其他向普通公众提供
-的设施和服务。"
+msgstr "第9条  要求国家采取措施确保残障人士在与其他人平等的基础上，无障碍地进出物质环境、使用交通工具、利用信息和通讯，和其他向普通公众提供的设施和服务。"
 
 #: WNUSP_CRPD_Manual.txt:314
 msgctxt "WNUSP_CRPD_Manual.txt:314"
@@ -1143,15 +1144,14 @@ msgstr "需要做什么："
 msgid ""
 "Ensure that the access needs of people with psychosocial disabilities are "
 "identified and addressed, in consultation with user/survivor organizations."
-msgstr "在与使用者和幸存者组织的商议中，确保社会心理残障人士的无障碍需求被
-确认和强调。"
+msgstr "在与使用者和幸存者组织的商议中，确保社会心理残障人士的无障碍需求被确认和强调。"
 
 #: WNUSP_CRPD_Manual.txt:318
 msgid ""
 "Article 10 reaffirms the right to life of all human beings and obligates "
 "governments to ensure its effective enjoyment by people with disabilities on "
 "an equal basis with others."
-msgstr "第10条 重申所有人类的生命权，和使政府有责任确保让残障人在与其他人>平等的基础上有效地享有它。"
+msgstr "第10条 重申所有人类的生命权，并使政府有责任确保让残障人在与其他人平等的基础上有效地享有它。"
 
 #: WNUSP_CRPD_Manual.txt:320
 msgid ""
@@ -1159,7 +1159,8 @@ msgid ""
 "Article 14) when it comes to issues of suicidality.  The right to life "
 "cannot be superseded by the right to liberty.  Both rights must be "
 "respected.  "
-msgstr "当提到自杀问题时，生命权（第十条）并不优先于自由权。生命权>不能被自由权所取代。两项权利都必须受到尊重。"
+msgstr "当提到自杀问题时，生命权（第10条）并不优先于人身自由权（第14条）。生命权也不能被人身自由权所取代。"
+"两项权利都必须受到尊重。"
 
 #: WNUSP_CRPD_Manual.txt:322
 msgctxt "WNUSP_CRPD_Manual.txt:322"
@@ -1170,8 +1171,8 @@ msgstr "需要做什么："
 msgid ""
 "1) Prosecute murders of people with disabilities, and ensure the means of "
 "survival for people with disabilities on an equal basis with others."
-msgstr "1） 对谋杀残障人进行控告，并且确保残障人在与其他人平等的基础上拥有
-生存的方式。"
+msgstr "1） 应控告对残障人的谋杀，并且确保残障人在与其他人平等的基础上拥有"
+"生存的方式。"
 
 #: WNUSP_CRPD_Manual.txt:326
 msgid ""
@@ -1182,10 +1183,10 @@ msgid ""
 "appropriate response to suicidal attempts or wishes.  People with experience "
 "of suicidality should be considered experts on this issue when developing "
 "law and policy."
-msgstr "2） 自杀和协助性自杀在残障人社区存在争议。自杀可能是一个有法律效力
-的个人选择，但它也可以是对剥夺、暴力和歧视的可预防条件的反应。刑事
-制裁和强制性精神病学都不是一种对自杀企图和意愿的合适反应。有自杀经
-验的人应该被认为是在这个问题上的制定法律和政策的专家。"
+msgstr "2） 自杀和协助自杀在残障人社区存在争议。自杀可能是一个有效"
+"的个人选择，但也可以是对（本可预防的）剥夺、暴力和歧视的环境的反应。刑事"
+"制裁和强制性精神医疗都不是合适的对自杀企图和意愿的对策。有自杀经"
+"验的人应该被认为是在这个问题上的制定法律和政策的专家。"
 
 #: WNUSP_CRPD_Manual.txt:328
 msgid ""
@@ -1193,9 +1194,8 @@ msgid ""
 "humanitarian law in situations of armed conflict, humanitarian emergencies "
 "and natural disasters, and take measures to ensure the safety of people with "
 "disabilities in these circumstances."
-msgstr "第11条  在武装冲突、人道主义紧急情况和自然灾害的情况下，要求政府尊
-重国际人权和人道主义法律，并且采取措施确保残障人在该种环境下的安全
-。"
+msgstr "第11条  在武装冲突、人道主义紧急情况和自然灾害的情况下，要求政府尊"
+"重国际人权和人道主义法律，并且采取措施确保残障人在该种环境下的安全。"
 
 #: WNUSP_CRPD_Manual.txt:330
 msgctxt "WNUSP_CRPD_Manual.txt:330"
@@ -1207,8 +1207,8 @@ msgid ""
 "1) Ensure that people with psychosocial disabilities have access to needed "
 "support systems and to safety measures and the necessities of life, and are "
 "not restricted any more than the general population."
-msgstr "1） 确保社会心理残障人士能够使用需要的支持系统，以及安全措施和生命
-的必需品，并且不能比一般大众受到更多的限制。"
+msgstr "1） 确保社会心理残障人士能够使用到需要的支持系统，以及安全措施和生命"
+"的必需品，并且不能比一般大众受到更多的限制。"
 
 #: WNUSP_CRPD_Manual.txt:334
 msgid ""
@@ -1216,9 +1216,8 @@ msgid ""
 "institutions, governments must develop emergency plans to ensure the safety "
 "of such persons during situations of armed conflict, humanitarian "
 "emergencies and natural disasters.     "
-msgstr "2） 直到像残障人不被关押在医院等机构这样的时候，政府必须发展应急计
-划来确保这些人在武装冲突、人道主义紧急情况和自然灾害的情况下的安全
-。"
+msgstr "2） 在残障人不被关押在医院等机构的时候之前，政府必须发展应急计"
+"划来确保这些人在武装冲突、人道主义紧急情况和自然灾害的情况下的安全。"
 
 #: WNUSP_CRPD_Manual.txt:336
 msgid ""
@@ -1248,15 +1247,15 @@ msgid ""
 "5) Agencies that habitually deal with acts requiring an exercise of legal "
 "capacity (such as banks, notaries, judges, medical personnel) need to "
 "provide some support measures as a form of reasonable accommodation.   \n"
-msgstr "第十二条                   保证享有法律能力的权利，包括拥有权利的>能力和行为的能力（行使权利和承担义务以及日常生活的自主做决定），并
-且要求政府在那些可能需要协助的人行使法律能力时向他们提供便利；任何
-与行使法律能力相关的措施必须尊重本人的权利、意愿和偏好，必须建立防
-护措施防止滥用。
-第12条是公约中最具创新性和深远意义的条款，并且对于精神病学使用者和
-幸存者有重大意义。不是被当作其他人施加影响的卑微的人对待，而是在在
-危机、混乱或悲痛时刻提供援助，我们对这种援助有接受或拒绝的权利。
-需要做什么：
-1） 在整个司法系统废除监护人制度和无行为能力法律和条款。
+msgstr "第十二条    保证享有法律能力的权利，包括拥有权利能力和行为能力"
+"（行使权利和承担义务，以及日常生活的自主决策），并"
+"且要求政府在那些可能需要协助的人行使法律能力时向他们提供便利；任何"
+"与行使法律能力相关的措施必须尊重本人的权利、意愿和偏好，必须建立防护措施防止滥用。\n"
+"需要做什么：\n"
+"第12条是公约中最具创新性和深远意义的条款，并且对于精神医学使用者和"
+"幸存者有重大意义。不是被当作“非人”被其他人对待和使唤，而是在"
+"危机、混乱或悲痛时刻提供援助。我们对这种援助有接受或拒绝的权利。\n"
+"1） 在整个司法系统废除监护人制度和「无行为能力」法律和条款。"
 2） 废除精神病防御和以残障中立标准代替来判决刑事责任（例如：实际犯
 罪意图，考虑犯罪的环境，动机等等）。
 3） 在做决定中发展机制以提供协助，以达到满足有多元化需求的残障人的
