@@ -1255,15 +1255,11 @@ msgstr "第十二条    保证享有法律能力的权利，包括拥有权利�
 "第12条是公约中最具创新性和深远意义的条款，并且对于精神医学使用者和"
 "幸存者有重大意义。不是被当作“非人”被其他人对待和使唤，而是在"
 "危机、混乱或悲痛时刻提供援助。我们对这种援助有接受或拒绝的权利。\n"
-"1） 在整个司法系统废除监护人制度和「无行为能力」法律和条款。"
-2） 废除精神病防御和以残障中立标准代替来判决刑事责任（例如：实际犯
-罪意图，考虑犯罪的环境，动机等等）。
-3） 在做决定中发展机制以提供协助，以达到满足有多元化需求的残障人的
-广泛程度。
-4） 在“支持性自主决策”中，残障人的判断和意愿没有争议，不像在监护人
-制度和替代性决策一样。
-5） 惯常地应付需要行使法律能力的行动的机构（譬如银行、公证员、法官
-、医疗人员）需要提供一些协助措施，以作为一种合理的便利。"
+"1） 在整个司法系统废除监护人制度和「无行为能力」法律和条款。\n"
+"2） 废除精神病防治（思想），并以残障中立标准代替来判决刑事责任（例如：实际犯罪意图，考虑犯罪的环境、动机等等）。\n"
+"3） 开发相应机制，为广泛的有多元化需求的残障人士提供决策支持。\n"
+"4） 在支持性自主决策中，残障人的判断和意愿不会受到争议，不像在监护人制度和替代性决策那样。\n"
+"5） 惯常地应付那些要求行使法律能力的机构（譬如银行、公证员、法官、医疗人员），需要提供一些协助措施，以作为一种合理的便利。\n"
 
 msgid "Article 13 guarantees access to justice for persons with disabilities, "
 "including through accommodations to facilitate acting as a witness or party "
@@ -1271,10 +1267,9 @@ msgid "Article 13 guarantees access to justice for persons with disabilities, "
 "and others involved in the administration of justice."
 "\n"
 "What needs to be done:"
-msgstr "第13条 保证残障人获得司法保护，包括通过便利去促使他在法律诉讼程序>和调查中作为一个证人或参与方，并且要求对警察和其他相关司法领域工作
-人员进行培训。
-
-需要做什么："
+msgstr "第13条 保证残障人获得司法救济渠道，包括提供便利以让他们顺利地在法庭程序和调查中作为证人或参与方，并且要求对警察和其他相关司法领域工作人员进行培训。"
+"\n"
+"需要做什么："
 
 #: WNUSP_CRPD_Manual.txt:348
 msgid ""
@@ -1282,8 +1277,7 @@ msgid ""
 "investigations and court proceedings.  Such accommodations may include "
 "access to support networks, avoidance of emotional provocation, and "
 "acceptance of non-conventional types of communication. "
-msgstr "1）在调查和法律诉讼程序中，向社会心理残障人士提供便利>。像这样的便利可以包括获得支持网络、避免情绪激发、和接纳非传统类型
-的通讯。"
+msgstr "1）在调查和法庭程序中，向社会心理残障人士提供便利。像这样的便利可以包括获得支持网络、避免情绪激发、和接纳非传统类型的通讯。"
 
 #: WNUSP_CRPD_Manual.txt:350
 msgid ""
@@ -1297,7 +1291,7 @@ msgid ""
 "disabilities are postponed indefinitely and replace them with provisions "
 "that protect the due process rights of persons with psychosocial "
 "disabilities."
-msgstr "3）废除对社会心理残障人士无限期的延长审判的法律条款，和用保>护社会心理残障人士的法定诉讼程序权利来代替它们。"
+msgstr "3）废除对社会心理残障人士无限期的延长审判的法律条款，并用保护社会心理残障人士的法定诉讼程序权利来代替它们。"
 
 #: WNUSP_CRPD_Manual.txt:354
 msgid ""
@@ -1307,9 +1301,8 @@ msgid ""
 "to human rights guarantees on an equal basis with others and to reasonable "
 "accommodation.\n"
 "What needs to be done:"
-msgstr "第14条 保证残障人在与其他人平等基础上的自由和人身安全，确保不得以>残障作为剥夺自由的理由，以及被剥夺自由的残障人，在与其他人平等的基
-础上，有权获得人权的保障的权利，和获得合理便利的待遇。
-需要做什么："
+msgstr "第14条 保证残障人在与其他人平等基础上的人身自由和安全，确保不得以残障作为剥夺自由的理由，以及被剥夺自由的残障人，在与其他人平等的基础上，有权获得人权保障，和获得合理便利的待遇。\n"
+"需要做什么："
 
 #: WNUSP_CRPD_Manual.txt:358
 msgid ""
@@ -1321,7 +1314,7 @@ msgstr "1） 废除任何以残障为剥夺自由的因素的法律（例如：�
 msgid ""
 "2) Release all individuals currently deprived of liberty in psychiatric "
 "settings or based on psychosocial disability."
-msgstr "2） 释放现时在精神病科环境的、或者基于社会心理残障的被剥夺自由的所有个人。"
+msgstr "2） 释放现时在精神科环境的、或者基于社会心理残障的被剥夺自由的所有个人。"
 
 #: WNUSP_CRPD_Manual.txt:362
 msgid ""
@@ -1329,9 +1322,7 @@ msgid ""
 "procedures to determine guilt or innocence of crimes, including the "
 "presumption of innocence and due process.   (See also “What needs to be done”"
 " under Article 13, subsection 3.)"
-msgstr "3） 确保社会心理残障人士拥有平等获得进入决定其是有罪还是无罪的法定
-程序，包括无罪推定和法定诉讼程序。（同见第十三条下“需要做什么”，第
-三节）"
+msgstr "3） 确保社会心理残障人士拥有平等获得进入相关法定程序的权利，那些程序决定其是否有罪，包括无罪推定和诉讼程序。（同见第十三条下“需要做什么”，第三节）"
 
 #: WNUSP_CRPD_Manual.txt:364
 msgid ""
