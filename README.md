@@ -5,12 +5,12 @@
 目录及翻译进度
 
 **已翻译**  
-- [联名信：联合国特别联络员关于每人都需获得最高标准精神健康的权利的报告](https://regaudit.github.io/survivor-cn/CRPD-l10n/Sign-on-letter-UN-SR-report.html)
+- [联名信：联合国特别联络员关于每人都需获得最高标准精神健康的权利的报告](https://regaudit.github.io/CRPD-l10n-zh/Sign-on-letter-UN-SR-report.html)  
 
-- [TCI-asia: 亚洲地区精神卫生法律一体化策略的报告](https://regaudit.github.io/survivor-cn/CRPD-l10n/Legal-Harmonization-Report-Draft.html)
+- [TCI-asia: 亚洲地区精神卫生法律一体化策略的报告](https://regaudit.github.io/CRPD-l10n-zh/Legal-Harmonization-Report-Draft.html)  
 
 **正在翻译**  
-- [CRPD Manual 手册—— WNUSP 出品(伊万译）](https://regaudit.github.io/survivor-cn/CRPD-l10n/WNUSP_CRPD_Manual-zh_CN-Yifan.html)
+- [CRPD Manual 手册—— WNUSP 出品(伊万译）](https://regaudit.github.io/CRPD-l10n-zh/WNUSP_CRPD_Manual-zh_CN-Yifan.html)
 
 
 ## How to
@@ -21,3 +21,13 @@
 3. （可選）也可使用 Poedit 編輯 po 文件。 [下載Poedit](https://poedit.net/)
 
 4. 对翻译有疑问或讨论，可以点击本页面上的 `issue`，发起个 issue（相当于发帖）。
+
+
+## Copyright
+
+本项目所翻译的文档，除非上游作者和/或译者特别声明，均采用 [CommonCreative BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 许可协议发布。即：  
+- 保留作者译者署名和首发处链接；
+- 非商用;
+- 不得演绎；
+
+----
