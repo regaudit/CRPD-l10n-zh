@@ -1225,7 +1225,8 @@ msgid ""
 "Article 15 prohibits torture and cruel, inhuman or degrading treatment or punishment, including "
 "medical experimentation without consent, on people with disabilities.\n"
 "What needs to be done:"
-msgstr "第15条 禁止对残障人实施酷刑和残忍、不人道或有辱人格的待遇和惩罚，包括对其不同意的医学试"
+msgstr "第15条 禁止对残障人实施酷刑和残忍、不人道或有辱人格的待遇和惩罚，包括对其施行不同意的医学试验。\n"
+"需要做什么："
 
 #: WNUSP_CRPD_Manual.txt:370
 msgid ""
@@ -1233,7 +1234,8 @@ msgid ""
 "well established principles of international human rights law.  Medical experimentation without "
 "consent was first recognized as a form of torture or cruel, inhuman or degrading treatment or "
 "punishment in the International Covenant on Civil and Political Rights, Article 7.   "
-msgstr "免于酷刑、残忍、不人道或有辱人格的待遇或惩罚，是国际人权法中一个"
+msgstr "免于酷刑、残忍、不人道或有辱人格的待遇或惩罚，是国际人权法中一个得到确认的原则。未经本人同意的医疗试验在《国际公民和政治权利公约》第七条中首先被视为一种形式的酷刑、残忍、不人道的或有辱人格的待遇或惩罚。"
+
 
 #: WNUSP_CRPD_Manual.txt:372
 msgid ""
@@ -1242,7 +1244,8 @@ msgid ""
 "of such methods without free and informed consent constitutes torture or cruel, inhuman or "
 "degrading treatment or punishment.  The practice of forced, coerced or deceptive psychiatric "
 "interventions must be stopped immediately and criminally sanctioned.  "
-msgstr "1） 精神病药物和其他像电击那样的侵害性的方法是固有的试验性的，并"
+msgstr "1） 精神病药物和其他像电击那样的侵害性的方法是固有的试验性的，并使个人的精神和身体能力、自主权和个性受到危险。没有自由的和知情的同意而使用像这样的方法构成酷刑、残忍 、不人道的和有辱人格的待遇或惩罚。强制性、威胁性或者欺骗性的精神病学干预必须马上停止，并应受到刑罚制裁。"
+
 
 #: WNUSP_CRPD_Manual.txt:374
 msgid ""
@@ -1252,7 +1255,8 @@ msgid ""
 "or for any purposes relating to the convenience of third parties.  Such use must be prohibited "
 "whether in psychiatric settings, prisons, residential services, facilities for children or older "
 "persons, or in any other setting."
-msgstr "2） 确保精神病学干预在任何理由下，基于任何种类的歧视，或因为任何"
+msgstr "2） 确保精神病学干预在任何理由下，基于任何种类的歧视，或因为任何与第三方利益相关的目的，不被用于审问、威胁或者恐吓、惩罚、预防措施的目的（基于这些目的酷刑是在《联合国反酷刑公约》第一条里面定义的）。像这样的使用必须被禁止，无论是精神病科环境、监狱、居家服务、儿童或老人设施，或在任何环境。"
+
 
 #: WNUSP_CRPD_Manual.txt:376
 msgid ""
@@ -1261,7 +1265,8 @@ msgid ""
 "anesthesia, in addition to the brain-damaging effects of the shock itself, and it should be "
 "considered a form of torture or cruel, inhuman or degrading treatment, regardless of whether "
 "consent was sought or obtained.    "
-msgstr "3)一些精神病学方法可能是固有的不人道的和有辱人格的，应该被禁用。"
+msgstr "3)一些精神病学方法可能是固有的不人道的和有辱人格的，应该被禁用。例如：直接电击使人受到脑损伤的影响之外，还在没有麻醉的情况下经历抽搐的充分的力量，并且它应该被认作是一种形式的酷刑、残忍、不人道、有辱人格的待遇，无论本人是否要求或同意。"
+
 
 #: WNUSP_CRPD_Manual.txt:378
 msgid ""
@@ -1269,7 +1274,8 @@ msgid ""
 "informed consent.  This may be a more direct basis for stopping forced, coercive and deceptive "
 "psychiatric interventions, but advocates should be aware that the freedom from torture and cruel, "
 "inhuman or degrading treatment or punishment is relevant and applicable."
-msgstr "请注意第二十五条，要求必须基于自由和知情同意权提供卫生保健。这也"
+msgstr "请注意第二十五条，要求提供卫生保健时必须基于自由的和知情的同意权。这也许是一个更加直接的停止强制性、威胁性的和欺骗的精神病学干预的基础，但是倡导者应该意识到免于酷刑、残忍、不人道、有辱人格的待遇或惩罚的自由（跟知情同意权）是相关联的且是可应用的。"
+
 
 #: WNUSP_CRPD_Manual.txt:380
 msgid ""
@@ -1277,7 +1283,8 @@ msgid ""
 "programs designed to serve people with disabilities, prosecution of violations where warranted, "
 "and measures to promote recovery and reintegration of victims.\n"
 "What needs to be done:"
-msgstr "第16条  要求防止剥削、暴力和凌虐，包括设计用于服务残障人的方案的"
+msgstr "第16条  要求防止剥削、暴力和凌虐，包括对设计用于服务残障人的方案的监督，对违法行为的合法检控，和促进被害人的康复和重整合的措施。"
+
 
 #: WNUSP_CRPD_Manual.txt:384
 msgid ""
