@@ -12,7 +12,7 @@
 - [TCI-asia: 亚洲地区精神卫生法律一体化策略的报告（翻译了结论部分）](https://regaudit.github.io/CRPD-l10n-zh/Legal-Harmonization-Report-Draft.html)  
 
 **正在翻译**  
-- [CRPD Manual 手册—— WNUSP 出品(伊万译）](https://regaudit.github.io/CRPD-l10n-zh/WNUSP_CRPD_Manual-zh_CN-Yifan.html)
+- [CRPD Manual 执行手册—— WNUSP 出品  (伊万译）>> 已完成前半部分（全文导读）](https://regaudit.github.io/CRPD-l10n-zh/WNUSP_CRPD_Manual-zh_CN-Yifan.html)
 
 
 ## How to
