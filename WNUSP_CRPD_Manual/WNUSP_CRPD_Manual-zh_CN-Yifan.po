@@ -1283,15 +1283,15 @@ msgid ""
 "programs designed to serve people with disabilities, prosecution of violations where warranted, "
 "and measures to promote recovery and reintegration of victims.\n"
 "What needs to be done:"
-msgstr "第16条  要求防止剥削、暴力和凌虐，包括对设计用于服务残障人的方案的监督，对违法行为的合法检控，和促进被害人的康复和重整合的措施。"
-
+msgstr "第16条  要求防止剥削、暴力和凌虐，包括对设计用于服务残障人的方案的监督，对违法行为的合法检控，和促进被害人的康复和重整合的措施。\n"
+"需要做什么："
 
 #: WNUSP_CRPD_Manual.txt:384
 msgid ""
 "1) Prevent all forms of exploitation, violence and abuse in family settings, communities and "
 "service provider facilities.  This includes sexual abuse and violence, economic exploitation and "
 "all other forms.  "
-msgstr "1） 在家庭环境、社区和服务提供者的设施中，防止所有形式的剥削、暴"
+msgstr "1） 在家庭环境、社区和服务提供者的设施中，防止所有形式的剥削、暴力和凌虐。这包括性虐待和暴力、经济剥削和其他各种形式。"
 
 #: WNUSP_CRPD_Manual.txt:386
 msgid ""
@@ -1299,14 +1299,16 @@ msgid ""
 "against the person’s will or without free and informed consent are forms of exploitation, "
 "violence and abuse that must be addressed by preventive measures, monitoring, prosecution and "
 "services to victims, as required by this Article."
-msgstr "2） 像药物施行、电击或者精神外科手术这样的违背他人意愿或没有自由"
+msgstr "2） 像药物管理、电击或者精神外科手术这样的违背他人意愿、没有自由知情同意的精神病学干预，都是多种形式的剥削、暴力和虐待，是必须被各种防范措施、监管、检举和对被害人的服务所要针对的，像本条款要求的一样。"
+
 
 #: WNUSP_CRPD_Manual.txt:388
 msgid ""
 "3) Survivors of exploitation, violence and abuse should have access to social support and "
 "services of their choice, which should not be conditioned on acceptance of a psychiatric "
 "diagnosis.  "
-msgstr "3） 剥削、暴力和凌虐的幸存者应该获得社会支持和他们选择的服务，该"
+msgstr "3） 剥削、暴力和凌虐的幸存者应该获得社会支持和他们选择的服务，这些支持和服务不应该以服务对象是否有精神科诊断为前提。" 
+
 
 #: WNUSP_CRPD_Manual.txt:390
 msgid "4) Support should be provided to withdraw safely from psychiatric drugs.  "
@@ -1318,7 +1320,10 @@ msgid ""
 "integrity on an equal basis with others.\n"
 " \n"
 "What needs to be done:"
-msgstr "第17条 保证残障人有权利获得在与他人平等基础上的身心完整性的尊"
+msgstr "第17条 保证残障人有权利获得（在与他人平等基础上的）身心整合性的尊重。"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:396
 msgid ""
@@ -1326,14 +1331,16 @@ msgid ""
 "practices done to people with disabilities.  This right can be broader than the right to be free "
 "from torture and cruel, inhuman or degrading treatment or punishment, and may also be seen as its "
 "more positive expression. "
-msgstr "1） 当残障人受到暴力的或者有辱人格的做法对待时，在平等基础上的对"
+msgstr "1）在同等基础上对残障人士整合性的尊重的权利会被暴力或有辱人格的行为所破坏。这种权利可以比免于酷刑、残忍、不人道或者有辱人格的待遇或惩罚的权利更加广泛，并且可以被视为它更积极的表述。"
+
 
 #: WNUSP_CRPD_Manual.txt:398
 msgid ""
 "2) The right to integrity can be used to reject the administration of psychosurgery, electroshock "
 "and neuroleptic drugs on the grounds that these procedures and drugs have a harmful effect on "
 "healthy organs and human autonomy and creativity.  "
-msgstr "2） 完整性的权利可以因为这些程序和药物对于健康器官和人类自主权和"
+msgstr "2） 整合性的权利可以用来拒绝精神外科手术、电击和抗精神病药物的施行，因为这些程序和药物对健康器官、人的自主和创造力造成伤害。"
+
 
 #: WNUSP_CRPD_Manual.txt:400
 msgid ""
@@ -1341,14 +1348,18 @@ msgid ""
 "a nationality and the right to use processes such as immigration proceedings.\n"
 " \n"
 "What needs to be done:"
-msgstr "第18条  保证自由迁徙和选择自己居所的自由，享有国籍的权利和使用像"
+msgstr "第18条  保证自由迁徙和选择自己居所的自由，享有国籍的权利和使用诸如移民程序等的程序。\n"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:404
 msgid ""
 "Laws and policies regarding international travel, immigration and naturalization, should treat "
 "people with disabilities on an equal basis with others, including reasonable accommodation.  No "
 "one should be rejected from entering a country based on past or present psychosocial disability."
-msgstr "关于国际旅行、移民和归化的法律和政策应该在与其他人平等的基础上对"
+msgstr "关于国际旅行、移民和归化的法律和政策应该在与其他人平等的基础上对待残障人士，包括提供合理便利。任何人不能基于过往和现在的社会心理残障被拒绝进入一个国家。"
+
 
 #: WNUSP_CRPD_Manual.txt:406
 msgid ""
@@ -1356,48 +1367,49 @@ msgid ""
 "including the choice of where and with whom to live, and ensures access to services that support "
 "such life choices.\n"
 "What needs to be done:"
-msgstr "第十九条  保证有与其他人平等地选择居住在社区的权利，包括选择住在"
+msgstr "第十九条  保证有与其他人平等地选择居住在社区的权利，包括选择住在哪里和与谁同住的权利，并确保获得能提供这类人生决策支持的服务。\n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:410
 msgid ""
 "1) Free all our people from institutions.  Ensure that no one is kept in an institution against "
-"his or her will, and that housing and services are provided in communities.    "
+"his or her will, and that housing and services are provided in communities."
 msgstr ""
-"1）  把我们的人从各种机构中释放出来。确保没有违背任何人的意愿监禁>他/她，并且在社区提供住房和服"
-"务。"
+"1） 把我们所有残障人士从各种机构中释放出来。确保没有人是被迫关在封闭机构里，并且确保能在社区住房供应和相应服务。"
 
 #: WNUSP_CRPD_Manual.txt:412
 msgid ""
 "2) Ensure that housing and services, including residential services, respect individual "
 "autonomy.  End coercive medication policies in residential and outpatient services.  "
-msgstr "2） 确保住房和服务，包括住宅服务，尊重个人自主权。在居住和门诊服"
+msgstr "2） 确保在供应住房和服务时，包括居家服务，尊重个人自主。在居家和门诊服务中不应有强迫性的药物政策。"
 
 #: WNUSP_CRPD_Manual.txt:414
 msgid ""
 "3) Community services must be accessible and open to people with psychosocial disabilities, and "
 "be responsive to their needs."
-msgstr "3） 对于残障人，社区服务必须是容易得到和向他们开放的，并响应他们"
+msgstr "3） 对于残障人，社区服务必须是容易获得的，并向他们开放，并能响应他们的需求。"
 
 #: WNUSP_CRPD_Manual.txt:416
 msgid ""
 "4) Provide a wide array of services, developed in consultation with user/survivor organizations, "
 "that may include peer support, crisis hostels and places of safe respite, and advocacy.  "
 msgstr ""
-"4） 在与使用者/幸存者组织商议过程中发展并提供广泛的服务，包括残障>人相互支持、危机宿舍和安全缓刑和"
-"辩护的处所。"
+"4） 在与使用者/幸存者组织商议过程中开发并提供广泛的服务，包括朋辈支持、危机宿舍和安全的喘息场所，并为他们的权利进行倡导。"
 
 #: WNUSP_CRPD_Manual.txt:418
 msgid ""
 "Article 20 requires states to ensure personal mobility of persons with disabilities, with the "
 "greatest possible independence."
-msgstr "第二十条  要求国家确保残障人的个人流动拥有最大可能性的自主权。"
+msgstr "第二十条  要求国家确保残障人的个人行动/迁徙的权利，并保障其拥有最大可能的独立性。"
 
 #: WNUSP_CRPD_Manual.txt:420
 msgid ""
 "Article 21 requires states to ensure that persons with disabilities can exercise the freedom of "
 "information and expression, through all forms of communication of their choice.  \n"
 "What needs to be done:"
-msgstr "第二十一条   要求国家通过所有残障人选择的通讯形式，确保残障人行使>获得信息的表达的自由"
+msgstr "第二十一条   要求国家确保残障人行使资讯的获得和表达的自由，保障所有他们所选择的通讯形式。\n"
+"需要做什么："
 
 #: WNUSP_CRPD_Manual.txt:424
 msgid ""
@@ -1405,13 +1417,14 @@ msgid ""
 "information.  A major discrimination faced by persons living with psychosocial disabilities is "
 "that we are told what people think we should be told and not provided with the information we "
 "have the right to receive and obtain. "
-msgstr "1） 确保向残障人提供充分和准确的信息。一个社会心理残障人士面临的"
+msgstr "1） 确保向残障人提供充分和准确的信息。一个社会心理残障人士面临的主要歧视是：人们只告知我们他们认为我们应该知晓的信息，而不是向我们提供我们有权利接收和获得的信息。"
+
 
 #: WNUSP_CRPD_Manual.txt:426
 msgid ""
 "2) Ensure that non-conventional communication by people with psychosocial disabilities is "
 "accepted. "
-msgstr "2） 确保社会心理残障人士的非传统通讯被接纳。"
+msgstr "2） 确保社会心理残障人士的非传统通讯/交流方式被接纳。"
 
 #: WNUSP_CRPD_Manual.txt:428
 msgid ""
@@ -1419,13 +1432,17 @@ msgid ""
 "rehabilitation information of persons with disabilities on an equal basis with others.\n"
 " \n"
 "What needs to be done:"
-msgstr "第二十二条  保证隐私，并且特别是在与其他人平等的基础上，保护残障"
+msgstr "第二十二条  保障隐私，并且特别是（在与其他人平等的基础上)保护残障人士的个人的、医疗和康复方面的信息。"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:432
 msgid ""
 "Protect persons with psychosocial disabilities from being pressured to release medical records "
 "during custody litigation and other court proceedings on an equal basis with others.  "
-msgstr "保护社会心理残障人士在与其他人平等的基础上，在羁押诉讼和其他法律"
+msgstr "保护社会心理残障人士（在与其他人平等的基础上），在羁押诉讼和其他法律讼程序中免于受到公布其医疗记录的压力。"
+
 
 #: WNUSP_CRPD_Manual.txt:434
 msgid ""
@@ -1434,37 +1451,40 @@ msgid ""
 "or child’s disability.\n"
 " \n"
 "What needs to be done:"
-msgstr "第二十三条    保证家庭、亲子关系、婚姻和恋爱关系的平等，和保持生"
+msgstr "第二十三条    保证家庭、亲子关系、婚姻和恋爱关系的平等，和保持生育的权利，并且确保不能基于家长的或孩子的残障剥夺孩子的监护权。\n"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:438
 msgid ""
 "1) Repeal laws that disqualify people with disabilities from marriage, consensual sexual "
 "relationships, or exercising parental rights.  "
-msgstr "1） 废除使残障人丧失结婚、经双方同意的性关系或者行使父母权利的资"
+msgstr "1） 废除使残障人丧失结婚、经双方同意的性关系的资格或者行使父母权利的法律。"
 
 #: WNUSP_CRPD_Manual.txt:440
 msgid ""
 "2) End forced or coerced sterilization or abortion on people with psychosocial disabilities.  "
 "(See also Articles 15, 16, 17.)"
-msgstr "2） 结束对残障人强制和威胁性的绝育和堕胎。（同见第15、16、17条）"
+msgstr "2） 结束对残障人的强制和威胁性的绝育和堕胎。（同见第15、16、17条）"
 
 #: WNUSP_CRPD_Manual.txt:442
 msgid ""
 "3) Ensure that people do not lose the right or freedom to have sexual relationships in "
 "residential programs or when using the services of in-home assistants."
-msgstr "3） 确保人们不丧失在住宅项目或使用家庭助手服务时发生性关系的权利"
+msgstr "3） 确保人们不丧失在居家项目或使用家庭助理服务时发生性关系的权利或自由。"
 
 #: WNUSP_CRPD_Manual.txt:444
 msgid ""
 "4) Personal assistants should be available to parents with psychosocial disabilities if the "
 "parents wish to have such assistance."
-msgstr "4） 如果社会心理残障的父母需要个人助手服务，他们应该可以获得该协"
+msgstr "4） 如果身为社会心理残障的父母需要个人助理服务，他们应该可以获得该协助。"
 
 #: WNUSP_CRPD_Manual.txt:446
 msgid ""
 "5) Train judges and lawyers to ensure that decisions about custody of children do not reflect "
 "prejudice about parents or children with disabilities."
-msgstr "5） 培训法官和律师以确保儿童的监护的决定不反应对残障家长和孩子的"
+msgstr "5） 培训法官和律师以确保关于儿童监护的决定不是基于对残障家长和孩子的偏见。"
 
 #: WNUSP_CRPD_Manual.txt:448
 msgid ""
@@ -1473,31 +1493,37 @@ msgid ""
 "system based on disability.\n"
 " \n"
 "What needs to be done:"
-msgstr "第二十四条    保证各级水平实行包容性教育，包括高等教育和终身教育"
+msgstr "第二十四条    保证残障人士有权利得到在各级教育中的包容性教育，包括高等教育和终身教育。 并且确保儿童不会基于残障而被排除在普通教育系统之外。\n"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:452
 msgid ""
 "1) Ensure that teachers are able to meet the diverse learning needs of students, and provide a "
 "safe and respectful academic and social environment."
-msgstr "1） 确保教师能够满足学生多元化的学习需求，并且提供安全和尊敬的学"
+msgstr "1） 确保教师能够满足学生多元化的学习需求，并且提供安全和尊重的学术和社会环境。"
+
 
 #: WNUSP_CRPD_Manual.txt:454
 msgid ""
 "2) Provide support and reasonable accommodation to students with psychosocial or learning "
 "disabilities.  Identify and meet needs without imposing labels on children."
-msgstr "2） 向有社会心理残障或学习障碍的学生提供支持或合理便利。确认和满"
+msgstr "2） 向有社会心理残障或学习障碍的学生提供支持或合理便利。确认和满足他们的需求，而不标签化儿童。"
+
 
 #: WNUSP_CRPD_Manual.txt:456
 msgid ""
 "3) Ensure that no child is excluded from education because of psychosocial disability, or coerced "
 "to use mental health services or psychiatric drugs as a condition for receiving an education."
-msgstr "3） 确保儿童不因为社会心理残障被排除在教育之外，或者被威胁使用精"
+msgstr "3） 确保儿童不因为社会心理残障被排除在教育之外，或者被威胁使用精神卫生服务或者精神病药物作为接受教育的条件。"
+
 
 #: WNUSP_CRPD_Manual.txt:458
 msgid ""
 "4) Provide opportunities and reasonable accommodation for adults with psychosocial disabilities "
 "to complete their education and participate in lifelong learning.  "
-msgstr "4） 向社会心理残障成人提供完成教育和参加终身学习的机会和合理便利"
+msgstr "4） 向社会心理残障成人提供完成教育和参加终身学习的机会和合理便利。"
 
 #: WNUSP_CRPD_Manual.txt:460
 msgid ""
@@ -1506,14 +1532,17 @@ msgid ""
 "identification and intervention “as appropriate”.\n"
 "What needs to be done:"
 msgstr ""
-"第二十五条   保证在卫生保健和服务中的平等，包括要求自由表达和知情>同意，和获得与残障相关的卫生保健"
-"和服务，包括酌情提供早期诊断和干"
+"第二十五条   保证在卫生保健和服务中的平等，包括要求自由表达和知情同意，并获得与残障相关的卫生保健"
+"和服务，包括提供“合适的”早期诊断和干预。\n"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:464
 msgid ""
 "1) Ensure that the right to free and informed consent is legally recognized and enforced without "
 "discrimination.  "
-msgstr "1） 确保自由表达和知情同意的权利被法律承认和没有歧视地执行。"
+msgstr "1） 确保自由表达和知情同意的权利被法律承认并在没有歧视的条件下执行。"
 
 #: WNUSP_CRPD_Manual.txt:466
 msgid "2) End forced/coerced medication in emergency rooms and inpatient facilities.  "
@@ -1524,7 +1553,9 @@ msgid ""
 "3) Develop and promote alternatives to medical model psychiatry that are adequately funded and "
 "independent of medical system.  Ensure that alternatives exist for people to receive support for "
 "mental and emotional needs without accepting a psychiatric diagnosis.  "
-msgstr "3） 发展和促进医疗模式精神病学的的替代方案，这些方案受到充分资助"
+msgstr "3） 发展和促进医疗模式精神病学的替代方案，这些方案受到充分资助且"
+"独立于医疗系统。确保这些替代方案是在不需要承认服务使用者的精神病诊断的前提下，为使用者提供精神和情绪支持。"
+
 
 #: WNUSP_CRPD_Manual.txt:470
 msgid ""
@@ -1532,7 +1563,8 @@ msgid ""
 "and psychosurgery.  Such information should be developed in consultation with users and survivors "
 "of psychiatry with diverse perspectives, including those who had adverse and traumatic "
 "experiences with the interventions in question.  "
-msgstr "4） 向考虑使用精神科药物、电击和精神外科手术的人们提供准确的信息"
+msgstr "4） 向考虑使用精神科药物、电击和精神外科手术的人们提供准确的信息像这样的信息应该在与精神科使用者和幸存者商议时形成，并从多角度展开，包括征求那些经历过被这类有问题的干预方法伤害过的人的意见。"
+
 
 #: WNUSP_CRPD_Manual.txt:472
 msgid "5) Ensure that physical health problems are not misidentified as psychosocial disability."
@@ -1543,7 +1575,8 @@ msgid ""
 "6) Mental health screening is an inappropriate application of early identification and "
 "intervention that results in labeling and discrimination rather than meeting human needs.  In "
 "particular, no one should be prescribed psychiatric drugs as a preventive measure."
-msgstr "6） 精神健康审查是一项导致标签化和歧视、而不是满足人类的需要的早"
+msgstr "6） 精神健康筛查是一项导致标签化和歧视、不合适的早期识别和干预方法，且没有满足人类需要。尤其，任何人不应该开精神病药方作为预防措施。"
+
 
 #: WNUSP_CRPD_Manual.txt:476
 msgid "7) End discriminatory practices regarding health insurance and life insurance."
@@ -1554,11 +1587,14 @@ msgid ""
 "Article 26 requires measures to enable people with disabilities to develop their abilities to the "
 "fullest extent, including through peer support, rehabilitation and habilitation.\n"
 "What needs to be done:"
-msgstr "第二十六条  要求采取措施使得残障人最大限度地发展他们的能力，包括"
+msgstr "第二十六条  要求采取措施使得残障人最大限度地发展他们的能力，包括通过朋辈支持，康复和适应训练等方法。"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:482
 msgid "Ensure that peer support is recognized and promoted in compliance with this Article."
-msgstr "确保残障人相互支持如本条款所述被承认和促进。"
+msgstr "确保残障人之间的朋辈支持在与本条款吻合的情况下得到承认和促进。"
 
 #: WNUSP_CRPD_Manual.txt:484
 msgid ""
@@ -1567,14 +1603,18 @@ msgid ""
 "disabilities and to promote opportunities for employment, career advancement and self-employment/"
 "entrepreneurship; slavery, servitude and forced labor are prohibited.  \n"
 "What needs to be done:"
-msgstr "第二十七条  保证工作的权利不受歧视和提供合理便利，并要求采取积极"
+msgstr "第二十七条  保证工作的权利不受歧视和提供合理便利，并要求采取积极措施确保开放性劳动力市场包容残障人士，并增加就业、职业提升和自雇/创业的机会；禁止奴隶、奴役和强迫性劳动。\n"
+"\n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:488
 msgid ""
 "1) Enact anti-discrimination laws and policies applicable to all forms and sectors of employment, "
 "and ensure that people with psychosocial disabilities are fully covered by these laws on an equal "
 "basis with all others."
-msgstr "1） 制定可应用于就业的所有形式和领域的反歧视法律和政策，并确保社"
+msgstr "1） 制定可应用于所有形式和领域的就业反歧视法律和政策，并确保社会心理残障人士在与其他所有人平等基础上充分受到这些法律和政策的保护。"
+
 
 #: WNUSP_CRPD_Manual.txt:490
 msgid ""
@@ -1593,13 +1633,16 @@ msgid ""
 "4) Employ people with disabilities in public sector jobs for which they are qualified.\n"
 "5) Require reasonable accommodation in all aspects of employment and qualifications for "
 "employment."
-msgstr "4） 在公共部门雇佣残障人做他们能胜任的工作"
+msgstr "4） 在公共部门雇佣残障人做他们能胜任的工作。\n"
+"5） 要求在就业的各个方面和职业资格认证中提供合理便利。"
+
 
 #: WNUSP_CRPD_Manual.txt:497
 msgid ""
 "6) Promote self-employment, entrepreneurship, job sharing, higher education to prepare for career "
 "of the person’s choice.  "
-msgstr "6） 促进自营就业、创业经营、分享工作、和为基于个人选择的职业做准"
+msgstr "6） 促进自营、创业、职位分享、和为基于个人选择的职业做准备的高等教育。"
+
 
 #: WNUSP_CRPD_Manual.txt:499
 msgid ""
@@ -1607,7 +1650,8 @@ msgid ""
 "organizations employing persons with disabilities.  Such exceptions (for example, allowing lower "
 "wages to be paid in these settings) do not help people with disabilities but perpetuate "
 "exploitation (contrary to Article 16) and constitute discrimination.    "
-msgstr "7） 结束国家劳动法给予雇佣残障人的庇护工场或非牟利组织的例外。像"
+msgstr "7） 结束国家劳动相关法律给予雇佣残障人的庇护工场或非营利组织的例外。像这样的例外（例如，在这些环境中容许支付更低的工资）不但没有帮助残障人，而且还使剥削（与第十六条相反）长期保持下去并构成歧视。"
+
 
 #: WNUSP_CRPD_Manual.txt:501
 msgid ""
@@ -1616,7 +1660,8 @@ msgid ""
 "and comply with other general requirements to preserve workers’ rights and dignity.  “Sheltered "
 "workshops” that discriminate against persons with disabilities with respect to pay can no longer "
 "operate on that basis.    "
-msgstr "8） 残障人就业应被视为工作，而不是治疗或慈善。如果其他就业和社会"
+msgstr "8） 残障人就业应被视为工作，而不是治疗或慈善。如果替代性的就业和社会企业能支付基本生活薪资，并遵从其他保护劳动者权利和尊严的一般要求，也是有价值的。至于那些仅支付那么一点薪水的歧视残障人士的“庇护工场”，基于本原则不应该再运作下去。"
+
 
 #: WNUSP_CRPD_Manual.txt:503
 msgid ""
@@ -1625,20 +1670,24 @@ msgid ""
 "for people with disabilities living in situations of poverty.\n"
 " \n"
 "What needs to be done:"
-msgstr "第二十八条  对生活在贫穷状态下的残障人，保证获得适足的生活水平和"
+msgstr "第二十八条  对生活在贫穷状态下的残障人，保证其获得适足的生活水平和使用社会保障项目和减贫项目，并且获得与残障相关的费用支出的援助，包括临时看护。\n"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:507
 msgid ""
 "1) Take all necessary measures to realize an adequate standard of living for people with "
 "psychosocial disabilities, including adequate food, water, clothes and housing.  No one should be "
 "forced to enter an institution for lack of the necessities of life."
-msgstr "1） 采取一切必要的措施以使社会心理残障人士实现适足生活水平，包括"
+msgstr "1） 采取一切必要的措施以使社会心理残障人士实现适足生活水平，包括充足的食物、供水、衣服和住房。不应该因为缺乏生活必需品而强迫任何人进入（封闭）机构。"
+
 
 #: WNUSP_CRPD_Manual.txt:509
 msgid ""
 "2) Ensure that development and poverty reduction programs include, and are responsive to, people "
 "with psychosocial disabilities.  "
-msgstr "2） 确保发展项目和减贫项目包括社会心理残障人士，并且响应他们的需"
+msgstr "2） 确保发展项目和减贫项目包含进社会心理残障人士，并且响应他们的需求。"
 
 #: WNUSP_CRPD_Manual.txt:511
 msgid ""
@@ -1648,7 +1697,11 @@ msgid ""
 "through disabled people’s organizations.\n"
 " \n"
 "What needs to be done:"
-msgstr "第二十九条  保证参与政治和公共活动的平等，包括残障人投票和被选举"
+msgstr "第二十九条  保证残障人士参与政治和公共活动的平等对待，包括残障人投票和被选举"
+"权利和机会，和使政府承担责任以促进残障人参与处理公共事务，包括通过残障人自组织的形式。\n"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:515
 msgid ""
@@ -1657,13 +1710,13 @@ msgstr "1） 确保任何人不能基于社会心理残障被取消投票的资�
 
 #: WNUSP_CRPD_Manual.txt:517
 msgid "2) Ensure that people who are in institutions have the right to vote.  "
-msgstr "2） 确保在机构中的人拥有投票的权利。"
+msgstr "2） 确保在（封闭）机构中的人拥有投票的权利。"
 
 #: WNUSP_CRPD_Manual.txt:519
 msgid ""
 "3) Recognize and support organizations of users and survivors of psychiatry on the national, "
 "regional, international and local levels.  "
-msgstr "3） 在国家、地区、国际和本地等各层面承认和支持精神医学使用者和"
+msgstr "3） 在国家、地区、国际和本地等各层面承认和支持精神医学使用者和幸存者的自组织。"
 
 #: WNUSP_CRPD_Manual.txt:521
 msgid ""
@@ -1673,21 +1726,23 @@ msgid ""
 " \n"
 "What needs to be done:"
 msgstr ""
-"第三十条 除其他事项外，保证参加文化活动和利用个人创造和智力潜力的>权利，而且尊重和支持残障人的文化"
-"身份的权利"
+"第三十条 除其他事项外，保证参加文化活动和利用个人创造力和智力潜力的权利，而且尊重和支持残障人的文化身份。\n"
+" \n"
+"需要做什么："
 
 #: WNUSP_CRPD_Manual.txt:526
 msgid ""
 "1) Provide opportunities for people with psychosocial disabilities to develop themselves and "
 "contribute to art, science and other cultural work."
-msgstr "1） 向社会心理残障人士提供发展自我和为艺术、科学和其他文化工作做"
+msgstr "1） 向社会心理残障人士提供发展自我和为艺术、科学和其他文化工作做贡献的机会。"
 
 #: WNUSP_CRPD_Manual.txt:528
 msgid ""
 "2) Ensure that cultural productions and sports and recreation opportunities do not discriminate "
 "against the participation of people with psychosocial disabilities as participants or "
 "spectators.  "
-msgstr "2） 确保文化产品、运动和娱乐机会不会歧视作为参与者或者观众的社会"
+msgstr "2） 确保文化产品、运动和娱乐机会不会歧视作为参与者或者观众的社会心理残障人士。"
+
 
 #: WNUSP_CRPD_Manual.txt:530
 msgid ""
@@ -1695,7 +1750,7 @@ msgid ""
 "traditional and/or minority cultures, and to develop programs and services that are culturally "
 "competent and acceptable.   "
 msgstr ""
-"3） 保护社会心理残障人士实践他们自己天生的、传统的和/或少数群体文>化的权利，并且发展文化方面有竞争"
+"3） 保护社会心理残障人士实践他们自己天生的、传统的和/或少数群体文化的权利，并且发展有文化竞争"
 "力和可接受的项目和服务。"
 
 #: WNUSP_CRPD_Manual.txt:532
@@ -1705,7 +1760,11 @@ msgid ""
 "collection and use of statistics, to enable them to formulate policies to give effect to the "
 "Convention.\n"
 "What needs to be done:"
-msgstr "第31条  要求政府在遵行保密防护措施和关于收集和使用统计数据的国际"
+msgstr "第31条  要求政府在收集信息（包括统计和研究数据）时，必须遵行保密防护措施和关于收集和使用统计数据的国际"
+"规范，以能够制定相应的政策来落实公约。\n"
+"\n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:536
 msgid ""
@@ -1716,8 +1775,9 @@ msgid ""
 "intellectual disabilities, blind, deaf and deafblind people, people with physical disabilities, "
 "etc.).  "
 msgstr ""
-"确保使用者/幸存者组织投入到下列事项的决定中：收集了什么信息、信息>如何使用、和它是否基于残障的类型"
-"被分解（例如：关于残障人就业率的"
+"确保使用者/幸存者组织投入到下列事项的决定中：收集了什么信息、信息如何使用、和信息是否是基于残障的类型分类的"
+"（例如：关于残障人就业率的统计数据是否被进一步划分，通过把社会心理障碍者与智力残障人士、盲人、聋人和盲聋人、身体残障人士等做比较来说明社会心理残障者的情况）。"
+
 
 #: WNUSP_CRPD_Manual.txt:538
 msgid ""
@@ -1726,7 +1786,8 @@ msgid ""
 "people with disabilities, by measures such as including people with disabilities in international "
 "development programs, facilitating capacity-building, cooperation in research, and technical and "
 "economic assistance.  "
-msgstr "第32条  要求政府促进和参加国际合作来实现公约的目标，包括与残障人"
+msgstr "第32条  要求政府促进和参加国际合作来实现公约的目标，包括与残障人自组织进行合作完成的活动。这可以通过采取像这样的把残障人包括在国际发展项目中、促进能力建设、研究合作以及技术和经济援助之中的措施来实现。"
+
 
 #: WNUSP_CRPD_Manual.txt:540
 msgctxt "WNUSP_CRPD_Manual.txt:540"
@@ -1739,13 +1800,13 @@ msgid ""
 "Convention, i.e. that they support activities to give effect to the human rights of people with "
 "disabilities as set out in the Convention, and that they do not support activities that violate "
 "the Convention or discriminate against people with disabilities."
-msgstr "1） 确保国际发展项目遵从公约的字面意义和精神，例如，他们支持落实"
+msgstr "1） 确保国际发展项目遵从公约的字面意义和精神，例如，他们支持落实公约阐述的残障人人权的活动，以及他们不支持违反公约或歧视残障人的活动。"
 
 #: WNUSP_CRPD_Manual.txt:544
 msgid ""
 "2) Support capacity-building of user/survivor organizations according to the needs identified by "
 "those organizations.  "
-msgstr "2） 根据由使用者/幸存者组织确认的需求，支持他们的能力建设。"
+msgstr "2） 支持使用者/幸存者组织的能力建设，这些能力建设要依据使用者/幸存者组织自己确认的需求来实施。"
 
 #: WNUSP_CRPD_Manual.txt:546
 msgid ""
@@ -1753,8 +1814,8 @@ msgid ""
 "levels have a consultative role in international cooperation activities, and can contribute as "
 "partners.  This may require financial support and capacity building.  "
 msgstr ""
-"3） 确保使用者/幸存者组织在国际、地区、国家和本地层面都在国际合作>活动中拥有协商的角色，并且能够作"
-"为伙伴作出贡献。这可能要求财务支"
+"3） 确保使用者/幸存者组织在国际、地区、国家和本地层面都在国际合作活动中拥有咨商的角色，并且能够作"
+"为伙伴做出贡献。这可能要求财务支援和能力建设。"
 
 #: WNUSP_CRPD_Manual.txt:548
 msgid ""
@@ -1766,7 +1827,13 @@ msgid ""
 "participate fully in the monitoring process.\n"
 " \n"
 "What needs to be done:"
-msgstr "第33条  要求政府在国家的层面，为实施公约和监管公约，设立独立机制"
+msgstr ""
+"第33条  要求政府在国家的层面，为实施公约和监管公约，设立独立机制。"
+"监督功能可以由一个国家人权机构或者一个满足国家人权机构要求的独立机"
+"制来完成，尤其要独立于政治机关。残障人组织应当获邀并充分参与监测进程。"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:552
 msgid ""
@@ -1776,8 +1843,8 @@ msgid ""
 "governments to set up a coordinating mechanism on disability issues that includes organizations "
 "of people with disabilities.  "
 msgstr ""
-"1） 国家实施公约的焦点必须有一个与使用者/幸存者紧密商议的机制。第33条的实施也可以利用《残障人平等"
-"机会标准规则》中的第17条，它要求政>府在包括残障人组织等残障问题上设立协调机制"
+"1） 国家实施公约的焦点是必须有一个与使用者/幸存者紧密商议的机制。第33条的实施也可以利用《残障人平等"
+"机会标准规则》中的第17条，它要求政府在残障议题上设立一个能包含残障人自组织的协调机制。"
 
 #: WNUSP_CRPD_Manual.txt:554
 msgid ""
@@ -1786,13 +1853,18 @@ msgid ""
 "mechanism, or assigning the monitoring function to an existing human rights institution, must be "
 "done in consultation with user/survivor organizations, and provide for an ongoing role of user/"
 "survivor organizations in contributing to its work.  "
-msgstr "2） 国家对人权条约的监督是一项新特点，但是许多国家拥有各种各样权"
+msgstr ""
+"2） 国家层面监督（机制）人权条约中的一项新特点，但是许多国家拥有各种各样权势"
+"的国家级人权机构。一个监督机制的建立，或者指定一个现存的人权机构执行"
+"监督功能，都必须通过与使用者/幸存者组织进行商议来完成 ，并且为使用者"
+"/幸存者组织提供一个持续的角色以让他们对该项工作保持贡献。"
+
 
 #: WNUSP_CRPD_Manual.txt:556
 msgid ""
 "3) The monitoring mechanism should include qualified users and survivors of psychiatry as members "
 "and/or employees."
-msgstr "3） 监督机制应当包括有资格的精神医学使用者和幸存者作为成员和/或>雇员。"
+msgstr "3） 监督机制应当包括符合要求的精神医学使用者和幸存者作为成员和/或雇员。"
 
 #: WNUSP_CRPD_Manual.txt:558
 msgid ""
@@ -1808,7 +1880,16 @@ msgid ""
 "the optional protocol.\n"
 " \n"
 "What needs to be done:"
-msgstr "第34条 至第39条     公约的可选协议书应付监督公约的国际专家委员会"
+msgstr ""
+"第34条至第39条以及公约的任择议定书约定了负责监督公约的国际专家委员会的"
+"创建和责任。政府被鼓励提名残障人专家在委员会服务。政府必须向委员会"
+"报告，并在准备这些报告时与残障人组织商议。残障人组织也可以直接与委员"
+"会沟通来告知委员会关于他们国家的情况。如果政府签署了任择议定书，人权"
+"受到侵犯的残障人可以向委员会投诉。如果国家签署了任择议定书，委员会也"
+"有权调查“严重的和系统性的”侵犯人权事件，包括对国家的实地访问。\n"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:562
 msgid ""
@@ -1816,26 +1897,26 @@ msgid ""
 "committee, seeking qualified people with disabilities and candidates supported by disabled "
 "people’s organizations."
 msgstr ""
-"1）为向监察委员会提名候选人建立一个开放和透明的程序，寻找合资格的>残障人和受残障人组织支持的候选"
+"1）为向监察委员会提名候选人建立一个开放和透明的程序，寻找符合要求的残障人和被残障人组织支持的候选"
 "人。"
 
 #: WNUSP_CRPD_Manual.txt:564
 msgid ""
 "2) Comply with reporting requirements and invite the contribution of user/survivor organizations "
 "to national reports."
-msgstr "2）遵从报告要求，并邀请使用者/幸存者组织对国家报告作出贡献。"
+msgstr "2）遵从国家报告要求，并邀请使用者/幸存者组织对国家报告做出贡献。"
 
 #: WNUSP_CRPD_Manual.txt:566
 msgid ""
 "3) Support the monitoring committee in seeking and receiving communications from people with "
 "disabilities and disabled people’s organizations.  "
-msgstr "3）在寻求和接收来自残障人和残障人组织的沟通时支持监察委员会。"
+msgstr "3）支持监察委员会积极寻求与残障人和残障人自组织的沟通。"
 
 #: WNUSP_CRPD_Manual.txt:568
 msgid ""
 "4) Cooperate with the committee and with disabled people’s organizations in improving compliance "
 "with the Convention.  "
-msgstr "4）在改进遵从公约时与委员会和残障人组织合作。"
+msgstr "4）在反思国家履行公约的过程时要与委员会和残障人自组织合作。"
 
 #: WNUSP_CRPD_Manual.txt:570
 msgid ""
@@ -1844,7 +1925,10 @@ msgid ""
 "facilitate regular exchange of information and capacity building by governments and civil "
 "society, including organizations of people with disabilities.\n"
 "What needs to be done:"
-msgstr "第40条  为缔约国会议做准备，使其考虑与实行公约相关的事情。这是人"
+msgstr "第40条  举行缔约国会议，讨论与实行公约相关的事情。这是人权公约的一个新特点，并且会促进政府和公民社会之间的定期信息交流和能力建设，公民社会也应包括残障人自组织。\n"
+" \n"
+"需要做什么："
+
 
 #: WNUSP_CRPD_Manual.txt:574
 msgid ""
@@ -1852,29 +1936,31 @@ msgid ""
 "States Parties when it considers matters related to implementation of the Convention, for example "
 "to contribute to setting an agenda, making presentations, and participating in panels and "
 "discussions. "
-msgstr "1） 当缔约国会议考虑与实行公约相关的事情时，支持残障人组织积极参"
+msgstr "1） 当缔约国会议讨论与实行公约相关的事情时，应支持残障人组织积极参与到会议中。例如，献计于设立议事日程、做分享、加入主席团和相关讨论。"
+
 
 #: WNUSP_CRPD_Manual.txt:576
 msgid ""
 "2) Contribute financial support for people with disabilities from the Global South to attend "
 "these meetings."
-msgstr "2） 从环南联盟向残障人提供财务支持以参加这些会议。"
+msgstr "2） 向“南部”（意指欠发达地区）残障人提供财务支持以参加这些会议。"
 
 #: WNUSP_CRPD_Manual.txt:578
 msgctxt "WNUSP_CRPD_Manual.txt:578"
 msgid "******************************************************"
-msgstr ""
+msgstr "******************************************************"
 
 #: WNUSP_CRPD_Manual.txt:580
 msgid ""
 "The full text of the Convention on the Rights of Persons with Disabilities is available in "
 "several languages on the UN website at http://www.un.org/disabilities/default.asp?navid=12&pid=150"
 msgstr ""
+"《残障人权利公约》全文现有多种语言版本，可以在联合国官网获得：http://www.un.org/disabilities/default.asp?navid=12&pid=150"
 
 #: WNUSP_CRPD_Manual.txt:582
 msgctxt "WNUSP_CRPD_Manual.txt:582"
 msgid "******************************************************"
-msgstr ""
+msgstr "**** 下半部暂未翻译 (2017.11.29) ****"
 
 #: WNUSP_CRPD_Manual.txt:584
 msgid "HOW CAN WE ACCOMPLISH WHAT NEEDS TO BE DONE?"
