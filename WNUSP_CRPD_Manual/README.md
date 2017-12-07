@@ -4,4 +4,4 @@
 **目前已完成前半部分（可以独立阅读）**  
 
 - 中英对照版（方便校对）: https://regaudit.github.io/CRPD-l10n-zh/WNUSP_CRPD_Manual-zh_CN-Yifan.html
-- 阅读中文请点击 .txt 文件
+- 中文成品是：WNUSP_CRPD_Manual.zh_CN.md (请点击上面)
