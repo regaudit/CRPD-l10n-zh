@@ -1,11 +1,11 @@
 ## Four Progresses in The First Case of Mental Health Law of China
 
 **author: Yang Weihua Lawyer**
-**translator: Regaudit**
 
 [source in Chinese (Lawyer Yang's Weibo post]()
 
-__(This is just a translation by meaning)__  
+__(This is just a translation by meaning. There are some words added and
+ignored by translator.)__  
 
 Some background information:  
 > The plaintiff of the first case in Mental Health Law of China, Xu Wei, is a
@@ -120,7 +120,7 @@ strengthens my arguement.
 
 <hr>
 
-**Forth progress**, is the enactment of the General Rules of Civil Law
+**Forth progress**, is the enactment of the General Principles of Civil Law
 (民法总则) on October 1st, 2017 (especially the Article 24).  
 
 The time flies to the first half of 2016, the first case of Mental Health Law
@@ -137,7 +137,7 @@ action. One of them was that Xu himself applies for a declaration of fully capac
 person to him. But the court rejected it with an incredible reason. (see the
 photo)  
 
-![The reply from the Court of Putuo District]()  
+![The reply from the Court of Putuo District](putuo-ywh.jpeg)  
 
 The logic on the reply from the Court of Putuo District can be concluded as: 
 the court can not declare that Xu is a person of capacity because 
@@ -150,8 +150,8 @@ have no privilege to do that (and also Xu cannot provide other verdict which
 declares he is a person of capacity). 
 
 Such logic sounds reasonable, from the perspective of those judges who adopt
-"ostrich policy" to their cases. The previous (unamended)General Principles of
-the Civil Law (民法通则) regulated that the stakholders of the psychiatric
+"ostrich policy" to their cases. The previous (unamended) 
+Civil Law (民法通则) regulated that the stakholders of the psychiatric
 patient can apply for declaration that the patient is a person of incapacity
 or limited capacity before the court. The person who was declared as
 incapacitated or limited capacitated, can by himself/herself or by
@@ -177,10 +177,35 @@ declared that he is not? Now the society/community will not recognize his
 capacity in fact, and how will he find ways to **resume** his personhood about
 capacity which has been somehow lost?  
 
-You know what, the court will not think of such things. 
+You know what, the court will not think of such things. We had to change to
+the third cause to action (which was that we represented Xu's mother to apply
+for disable her guardianship to the court). The court finally accepted the
+case. Thus Xu was able to apply for his third psychiatric forensics. And God
+blessed, we received the result of the forensics which recognized Xu's full
+capacitated personhood. Therefore, there was no need to take the action to
+disable his guardianship. We then asked the court to declare that Xu was a
+person of full capacity with this forensics result as an evidence. But there
+was still the old dilemma: Why and how would the court declare Xu was fully
+capacitated while nobody had declared that he was not?  
 
-Let's not worry, at last! 
+Let's not worry, at last! The amended General Principles of Civil Law
+(民法总则) helps us. Its Article 24 changes the term "declare" (in Article 19
+of Civil Law) to "recognize" when it comes to state the procedure of judging a
+person's capacity. This indicates that the declaration of incapacity is not
+the premise of the declaration of capacity. The court can recognize the
+person's capacity based only at any explicitly or implicitly stated
+recognition of the person's incapacity in previous judgements. According to
+this change, Putuo District Court had to made the judgement of declaring Xu's full
+capacity on October, while it accepted our application as early as on August this
+year.  
 
+Till now, the first case of Mental Health Law has been finished. Mr. Xu can
+start his brand new life freely along with his girlfriend (who has also been
+cimmitted to the same mental institution for many years). 
 
+<hr>  
+**translator: Regaudit**   
+(Proofreading needed)  
+__This article is released under CC BY-ND-SA 4.0__  
 
 
