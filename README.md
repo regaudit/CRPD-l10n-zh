@@ -11,6 +11,8 @@
 
 - [TCI-asia: 亚洲地区精神卫生法律一体化策略的报告（翻译了结论部分）](https://regaudit.github.io/CRPD-l10n-zh/Legal-Harmonization-Report-Draft.html)  
 
+- [杨卫华律师：《精神卫生法》第一案的四个法律进步](https://github.com/regaudit/CRPD-l10n-zh/blob/master/MHL-China/Four-progresses-MHA-1st-case.en.md)
+
 **正在翻译**  
 - [CRPD Manual 执行手册—— WNUSP 出品  (伊万译）>> 已完成前半部分（全文导读）](https://regaudit.github.io/CRPD-l10n-zh/WNUSP_CRPD_Manual-zh_CN-Yifan.html)
 
