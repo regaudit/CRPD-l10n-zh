@@ -11,7 +11,7 @@ Some background information:
 > The plaintiff of the first case in Mental Health Law of China, Xu Wei, is a
 man who has been committed to psychiatric hospital and institutions for about
 14 years (from 2002 to 2017). When Mental Health Law was enacted in May of
-2013, Xu Wei was able to ask for dischargement with the assistance of lawyer
+2013, Xu Wei was able to ask for discharge with the assistance of lawyer
 Yang and a dedicated NGO. Even though the MHL set explicitly the patient's
 right to sue as well as their right to discharge by themselves (in the
 situation of no dangerousness), the persons with psychosocial(mental)
@@ -26,7 +26,7 @@ Lawyer Yang's reflection:
 **First progress**, was the enforcement of Shanghai Mental Health Ordinance in 2002
 (Xu lives in Shanghai). At that time Xu had been living in the mental health
 center in Putuo District, Shanghai for one year. It seemed that there's little
-hope of dischargement for him.  
+hope of discharge for him.  
 
 Fortunately, there was a first of its kind of mental health (local) regulation
 had been released in Shanghai in the same year, April the 7th. It breakingly
@@ -98,8 +98,8 @@ argued that the apellee had mixed up with the concepts of dangerousness and
 probability; for the second point, the Article 45 of Mental Health Law already
 states that "For psychiatric patients who are to be discharged, if they had no
 capacity/ability to do that, their guardians should take the procedure of
-dischargement for them". This implies that the psychiatric patients can take
-the procedure of dischargement by themselves, as long as they have the ability
+discharge for them". This implies that the psychiatric patients can take
+the procedure of discharge by themselves, as long as they have the ability
 to do that.  
 
 As for this implication, there was already a law which is the just amended
@@ -107,7 +107,7 @@ Shanghai Mental Health Ordinance on my back. This local regulation had
 inititated its amendment right after the enactment of Mental Health Law. On
 March 1st 2015, the updated version went into force. It explicitly states the
 logic that the Article 45 of Mental Health Law implies. It refines the logic
-as: "In-patient psychiatric patients who meet the condition of dischargement,
+as: "In-patient psychiatric patients who meet the condition of discharge,
 should take their procedure for discharge in time. The patients can take the
 procedure for discharge by themselves as well as by their guardians; Patients
 who have no ability to take the procedure for discharge, their guardians
@@ -205,7 +205,9 @@ cimmitted to the same mental institution for many years).
 
 <hr>  
 **translator: Regaudit**   
-(Proofreading needed)  
+
+(本文还未校对，欢迎参与)  
+
 __This article is released under CC BY-ND-SA 4.0__  
 
 
