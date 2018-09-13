@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-08 17:15+0800\n"
+"POT-Creation-Date: 2018-09-13 17:15+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MDrights\n"
 "Language-Team: CRPD-l10-zh <mdrights@tutanota.de>\n"
@@ -15,16 +15,14 @@ msgstr ""
 
 #: TCIAsia_Creating_a_new_pedagogy_around_inclusion.md:1
 msgid "**Creating a new pedagogy around Inclusion**"
-msgstr ""
+msgstr "**为融合创造一种新的实践方法**"
 
 #: TCIAsia_Creating_a_new_pedagogy_around_inclusion.md:3
 msgid "Author: TCI-Asia"
-msgstr ""
+msgstr "作者：TCI-Asia"
 
 #: TCIAsia_Creating_a_new_pedagogy_around_inclusion.md:5
 msgid ""
-"<img src=\"media/.jpeg\" width=\"178\" height=\"111\" /><img src=\""
-"media/image2.jpeg\" width=\"167\" height=\"131\" />"
 msgstr ""
 
 #: TCIAsia_Creating_a_new_pedagogy_around_inclusion.md:7
@@ -47,6 +45,9 @@ msgid ""
 "'Inclusion', understanding what this means, how to practice it, how to bring "
 "it into policies in our region; and worldwide engagements on inclusion."
 msgstr ""
+"在UNCRPD所设置的更广阔的框架下，TCI Asia 去年一直都在围绕着第19条的实践方法上下功夫。"
+"而如今，我们也一直聚焦在关于“融合”的倡导上，我们理解这到底是什么含义，如何践行，怎样在我们的地区把它"
+"带进政策的设置里，以及在全球范围内关注融合。"
 
 #: TCIAsia_Creating_a_new_pedagogy_around_inclusion.md:11
 msgid "**The developing global scenario **"
