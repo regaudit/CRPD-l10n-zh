@@ -8,7 +8,7 @@ A group of persons with psychosocial disabilities, and some cross disability sup
 
 Within the broader human rights frame set up by the UNCRPD, TCI Asia in the last years has consistently worked on the pedagogy and practices around Article 19. Over this time, we have centered the advocacy around 'Inclusion', understanding what this means, how to practice it, how to bring it into policies in our region; and worldwide engagements on inclusion.
 
-**The developing global scenario **
+**The developing global scenario**
 
 There has been a significant shifting ground on global policy thinking and practices on the inclusion of persons with psychosocial disabilities. The new language is being developed somewhere moving from the "global burden of mental disorders and filling the treatment gap [1]" to removing the "global burden of obstacles [2]". At the center of this shift is the elaboration of Article 19 by the CRPD committee, its concluding observations, General Comments, as well as the recent works of the special procedures of the Human Rights Council, among others.
 
